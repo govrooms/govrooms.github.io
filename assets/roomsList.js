@@ -1106,12 +1106,12 @@ const RoomsList = [
     "Gender": "Separate rooms for genders",
     "Wudhu": "Yes - opposite male prayer room, separate for genders",
     "Size": "Brothers: About 35, sisters about 10",
-    "Jummah time": "Between 1.15 to 1.30 BST, double check with Muslim security or facilities manager",
+    "Jummah time": "Between 1.15 to 1.30 BST, double check with Muslim security or facilities manager (iqbal.jhuti@Justice.gov.uk)",
     "Closest Masjids": "SW1P3BU, SW1V4LP",
     "Alert": 0,
     "Fill details": 0,
     "Notes": "Ministry of Justice/Government Legal Department/Crown Prosecution Service/Her Majesty's Court and Tribunal Service\n\nThe wudhu / male room is - after reaching end of stairs, look towards petty france and go through double doors on left, then first right.\n\nThe female prayer room, after reaching end of stairs, look towards petty france and take right, then first left"
-  },	
+  },
   {
     "Title": "HMT",
     "Region": "",
@@ -1540,9 +1540,9 @@ const RoomsList = [
     "Address 3": "",
     "Town/City": "Croydon",
     "Postcode": "CR0 1XG",
-    "Floor": 14,
+    "Floor": "14 and 2(HMPPS)",
     "Block": "",
-    "Room": 14.26,
+    "Room": "14.26 (may no longer be available)",
     "Timing": "",
     "Gender": "",
     "Wudhu": "",
@@ -1551,7 +1551,7 @@ const RoomsList = [
     "Closest Masjids": "CR02RF",
     "Alert": "",
     "Fill details": 1,
-    "Notes": "Dedicated Prayer and contemplation"
+    "Notes": "Dedicated Prayer and contemplation on 14th floor\nNote: There are access restrictions to second floor room - HMPPS only. Also the 14th floor is no longer for HMPPS - so it may no longer be available."
   },
   {
     "Title": "1 Ruskin Square (1RS)",
@@ -1783,5 +1783,26 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": 1,
     "Notes": "Complaint made by member about lack of facilities in Probation centres"
+  },
+  {
+    "Title": "HMRC & Cabinet Office Glasgow",
+    "Region": "",
+    "Address 1": "York Street",
+    "Address 2": "",
+    "Address 3": "",
+    "Town/City": "Glasgow",
+    "Postcode": "G2 8LA",
+    "Floor": 1,
+    "Block": "",
+    "Room": "See signs near the lift on 1st floor",
+    "Timing": "8am until close",
+    "Gender": "Shared room with dividers available",
+    "Wudhu": "No facilities available",
+    "Size": "",
+    "Jummah time": "",
+    "Closest Masjids": "",
+    "Alert": 1,
+    "Fill details": 1,
+    "Notes": ""
   }
-];
+]
