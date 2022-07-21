@@ -13,9 +13,9 @@ searchBox.addEventListener("keyup", event => {
 
 const search = {
 	fieldsToSearch: ['Title', 'Address 1', 'Address 2', 'Address 3', 'Town/City', 'Postcode']
-	, extraFieldsToShow: ['Block', 'Floor', 'Room', 'Gender', 'Wudhu', 'Jummah Time', 'Notes']
+	, extraFieldsToShow: ['Block', 'Floor', 'Room', 'Gender', 'Wudhu', 'Jummah time', 'Notes']
 
-	, extraFieldsToShowMasjid: ['Tel', 'Email', 'Website', 'Jummah Timing', 'Notes']
+	, extraFieldsToShowMasjid: ['Tel', 'Email', 'Website', 'Jummah timing', 'Notes']
 
 	, runSearch(searchText) {
 		const results = this.getOfficeRecords(searchText);
