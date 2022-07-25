@@ -1127,7 +1127,7 @@ const RoomsList = [
     "Gender": "",
     "Wudhu": "",
     "Size": "",
-    "Jummah time": "",
+    "Jummah time": "Summer: Jummah time first Azan at 1.15 and second Azan at 1.25.",
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
@@ -1824,7 +1824,7 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": 1,
-    "Notes": ""
+    "Notes": "I really need brothers and sisters to come together to ensure it has what it needs for muslim prayers, i.e. prayer mats, segregation, etc. And importantly when the numbers are high enough Jummah prayers to be established."
   },
   {
     "Title": "Cabinet Office - 70 Whitehall",
