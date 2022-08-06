@@ -84,4 +84,3 @@ const search = {
 		return html + '</div></details>';
 	}
 }
-

@@ -67,9 +67,12 @@
           </div>
         </div>
       </div>
-    </footer> 
-    <script src="assets/roomsList.js"></script>
-    <script src="assets/masjidList.js"></script>
-    <script src="assets/js.js"></script>
+    </footer>
+    <script type="text/javascript">
+      const RandomNumber = (Math.random() * 10000).toFixed(0);
+      document.write('<script src="assets/roomsList.js?' + RandomNumber + '"></' + 'script>');
+      document.write('<script src="assets/masjidList.js?' + RandomNumber + '"></' + 'script>');
+      document.write('<script src="assets/js.js?' + RandomNumber + '"></' + 'script>');
+    </script>
   </body>
 </html>
