@@ -208,5 +208,20 @@ const MasjidList = [
     "Fill details": "",
     "Jummah timing": "1.20pm first Jummah, 2pm second Jummah",
     "Notes": "14 minutes wall away from the Land Registry office"
+  },
+  {
+    "Title": "Churchill Pace Shopping Mall",
+    "Match_ID": "E145RB",
+    "Address 1": "2 Churchill Place",
+    "Address 2": "",
+    "Address 3": "",
+    "Town/City": "London",
+    "Postcode": "E14 5RB",
+    "Tel": "",
+    "Email": "",
+    "Website": "https://canarywharf.com/",
+    "Fill details": "",
+    "Jummah timing": "Men only: 1.05pm, Men & Women 1.40pm",
+    "Notes": "Link here: https://canarywharf.com/faqs/ - search for pray - Timetable for 2022 here: https://canarywharf.com/wp-content/uploads/2022/03/canary-wharf-prayer-room-timetable-28-mar-2022.pdf\nhttps://canarywharfchaplaincy.co.uk/"
   }
 ]

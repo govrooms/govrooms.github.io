@@ -210,22 +210,22 @@ const RoomsList = [
     "Notes": ""
   },
   {
-    "Title": "10SC / Canary Wharf",
+    "Title": "10SC / Canary Wharf / 10 South Colonade",
     "Region": "",
     "Address 1": "10 south colonnade",
     "Address 2": "",
     "Address 3": "",
     "Town/City": "London",
-    "Postcode": "",
+    "Postcode": "E14 4QQ",
     "Floor": "G, 1, 4 and 6",
     "Block": "",
-    "Room": "Reflection rooms - 4th floor by stairs near lift, 6th floor by CSHR kitchen. Multi-faith rooms on Ground and level 1",
+    "Room": "Reflection rooms - 1st floor, 4th floor by stairs near lift, 6th floor by CSHR kitchen. Multi-faith rooms on Ground and level 1",
     "Timing": "Office hours",
     "Gender": "Unisex with curtain separater",
     "Wudhu": "",
     "Size": "",
     "Jummah time": "",
-    "Closest Masjids": "",
+    "Closest Masjids": "E145RB",
     "Alert": "",
     "Fill details": 1,
     "Notes": ""
@@ -436,7 +436,7 @@ const RoomsList = [
     "Size": "",
     "Jummah time": "",
     "Closest Masjids": "",
-    "Alert": "",
+    "Alert": 1,
     "Fill details": "",
     "Notes": ""
   },
@@ -1127,7 +1127,7 @@ const RoomsList = [
     "Gender": "",
     "Wudhu": "",
     "Size": "",
-    "Jummah time": "Summer: Jummah time first Azan at 1.15 and second Azan at 1.25.",
+    "Jummah time": "Jummah time first Azan at 1.15 and second Azan at 1.25.",
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
@@ -1824,7 +1824,7 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": 1,
-    "Notes": "I really need brothers and sisters to come together to ensure it has what it needs for muslim prayers, i.e. prayer mats, segregation, etc. And importantly when the numbers are high enough Jummah prayers to be established."
+    "Notes": "We need brothers and sisters to come together to ensure it has what it needs for muslim prayers, i.e. prayer mats, segregation, etc. And importantly when the numbers are high enough Jummah prayers to be established."
   },
   {
     "Title": "Cabinet Office - 70 Whitehall",
@@ -1846,5 +1846,26 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": 1,
     "Notes": "Also consider other prayer rooms on Whitehall (try searching)"
+  },
+  {
+    "Title": "CCS Capital Building Crown Commercial Service",
+    "Region": "",
+    "Address 1": "39 Old Hall Street",
+    "Address 2": "",
+    "Address 3": "",
+    "Town/City": "Liverpool",
+    "Postcode": "L3 9PP",
+    "Floor": "1 and 2",
+    "Block": "",
+    "Room": "",
+    "Timing": "",
+    "Gender": "",
+    "Wudhu": "",
+    "Size": "",
+    "Jummah time": "",
+    "Closest Masjids": "",
+    "Alert": "",
+    "Fill details": 1,
+    "Notes": "Signed from lift lobby"
   }
 ]
