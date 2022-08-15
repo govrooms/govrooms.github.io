@@ -1867,5 +1867,26 @@ const RoomsList = [
     "Alert": "",
     "Fill details": 1,
     "Notes": "Signed from lift lobby"
+  },
+  {
+    "Title": "HM Passport office, Globe House",
+    "Region": "",
+    "Address 1": "89 Eccleston Square",
+    "Address 2": "Pimlico",
+    "Address 3": "",
+    "Town/City": "London",
+    "Postcode": "SW1V 1PN",
+    "Floor": "Mezzanine",
+    "Block": "",
+    "Room": "Two rooms on Mezanine floor",
+    "Timing": "",
+    "Gender": "Separate rooms for sisters and brothers",
+    "Wudhu": "Yes available",
+    "Size": "",
+    "Jummah time": "",
+    "Closest Masjids": "",
+    "Alert": "",
+    "Fill details": 1,
+    "Notes": ""
   }
 ]
