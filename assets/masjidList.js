@@ -223,5 +223,20 @@ const MasjidList = [
     "Fill details": "",
     "Jummah timing": "Men only: 1.05pm, Men & Women 1.40pm",
     "Notes": "Link here: https://canarywharf.com/faqs/ - search for pray - Timetable for 2022 here: https://canarywharf.com/wp-content/uploads/2022/03/canary-wharf-prayer-room-timetable-28-mar-2022.pdf\nhttps://canarywharfchaplaincy.co.uk/"
+  },
+  {
+    "Title": "Masjid Al-Huda",
+    "Match_ID": "S37WT",
+    "Address 1": "next to St Silas Church",
+    "Address 2": "Hanover Street",
+    "Address 3": "Highfield",
+    "Town/City": "Sheffield",
+    "Postcode": "S3 7WT",
+    "Tel": "0114 272 0727",
+    "Email": "hudacentre@gmail.com",
+    "Website": "https://masjidhudasheff.com/",
+    "Fill details": "",
+    "Jummah timing": "1.15pm",
+    "Notes": ""
   }
 ]
