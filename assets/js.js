@@ -19,6 +19,8 @@ const search = {
 
 	, runSearch(searchText) {
 		const results = this.getOfficeRecords(searchText);
+		clearTimeout(this.SearchRecordTimer);
+		this.SearchRecordTimer = setTimeout('search.recordSearch(' + results.length + ',"' + searchText+ '");', 3000);
 		this.officeHTML(results);
 	}
 
@@ -59,6 +61,13 @@ const search = {
 	return fieldsHTML;
 	}
 
+	,recordSearch(resultsCount, searchText) {
+		gtag('event', 'RoomSearch', {
+			Searched_Text: searchText,
+			Results_Counted: resultsCount
+		});
+	}
+
 	,showMasjids(matchIds) {
 		let masjidHTML = '<details class="govuk-details"><summary class="govuk-details__summary"><span class="govuk-details__summary-text">Closest Masjids</span></summary><div class="govuk-details__text">';
 		var postcodes = matchIds.split(',');
@@ -78,9 +87,15 @@ const search = {
 
 	,masjidHTML(masjid) {
 		const r = masjid;
-		let html = '<details class="govuk-details"><summary 	class="govuk-details__summary"><span class="govuk-details__summary-text">' + r.Title + '</summary>';
+		let html = '<details class="govuk-details"><summary class="govuk-details__summary" onclick="search.RecordMasjidClick(\'' + r.Title + '\')"><span class="govuk-details__summary-text">' + r.Title + '</summary>';
 		html += '<div class="govuk-details__text"><h4 class="govuk-heading-s">' + r.Title + ' - ' + r['Address 1'] + ' ' + r['Address 2'] + ' ' + r['Address 3'] + ' ' + r['Town/City'] + ' ' + r.Postcode + '</h4>' + this.fieldsHTML(this.extraFieldsToShowMasjid, masjid);
 		
 		return html + '</div></details>';
+	}
+
+	,RecordMasjidClick(masjidName) {
+		gtag('event', 'ClosestMasjids', {
+			Masjid_Name_Clicked: masjidName,
+		});
 	}
 }
