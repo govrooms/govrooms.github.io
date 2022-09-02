@@ -2014,5 +2014,26 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": 1,
     "Notes": "Subject to changes due to renovation as of August 2022"
+  },
+  {
+    "Title": "Birmingham Government Hub / Arena Central 3 / AC3 / 3AC / HMCTS / DWP",
+    "Region": "West Midlands",
+    "Address 1": "Bridge Street",
+    "Address 2": "",
+    "Address 3": "",
+    "Town/City": "Birmingham",
+    "Postcode": "B1 2AX",
+    "Floor": 6,
+    "Block": "",
+    "Room": "Reflection room",
+    "Timing": "7am - 7pm",
+    "Gender": "",
+    "Wudhu": "Yes separate for genders next to room",
+    "Size": "",
+    "Jummah time": "",
+    "Closest Masjids": "",
+    "Alert": "",
+    "Fill details": 1,
+    "Notes": ""
   }
 ]
