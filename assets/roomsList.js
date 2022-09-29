@@ -1162,18 +1162,18 @@ const RoomsList = [
     "Address 3": "",
     "Town/City": "Leeds",
     "Postcode": "LS2 7UE",
-    "Floor": "1, 7",
-    "Block": "",
-    "Room": "7th floor, room 7C03(Male) 1C18 (female)",
+    "Floor": "1st floor",
+    "Block": "North",
+    "Room": "6 (1N06)",
     "Timing": "",
     "Gender": "Separate rooms for genders",
-    "Wudhu": "Wudhu facilities available",
+    "Wudhu": "Wudhu facilities available separate rooms for genders",
     "Size": "",
     "Jummah time": "",
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": "Located near the Leeds bus station"
+    "Notes": "room 7C03(Male) 1C18 (female) - now closed (sep 2022)"
   },
   {
     "Title": "Cabinet Office",
@@ -2016,7 +2016,7 @@ const RoomsList = [
     "Notes": "Subject to changes due to renovation as of August 2022"
   },
   {
-    "Title": "Birmingham Government Hub / Arena Central 3 / AC3 / 3AC / HMCTS / DWP",
+    "Title": "Birmingham Government Hub / Arena Central 3 / AC3 / HMCTS / DWP",
     "Region": "West Midlands",
     "Address 1": "Bridge Street",
     "Address 2": "",
