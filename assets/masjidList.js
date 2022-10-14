@@ -298,5 +298,20 @@ const MasjidList = [
     "Fill details": "",
     "Jummah timing": "Jumuah 1.10pm, Iqama 1.30pm",
     "Notes": ""
+  },
+  {
+    "Title": "Jamia Mosque and Islamic Society of Darlington",
+    "Match_ID": "DL36LY",
+    "Address 1": "25-26 North Lodge Terrace",
+    "Address 2": "",
+    "Address 3": "",
+    "Town/City": "Darlington",
+    "Postcode": "DL3 6LY",
+    "Tel": "01325 266335",
+    "Email": "",
+    "Website": "",
+    "Fill details": "",
+    "Jummah timing": "",
+    "Notes": "Please note that Jummah prayers are prayed here for Brother only and there are two Jamaats. Call to confirm time."
   }
 ]
