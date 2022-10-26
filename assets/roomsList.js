@@ -2035,5 +2035,26 @@ const RoomsList = [
     "Alert": "",
     "Fill details": 1,
     "Notes": ""
+  },
+  {
+    "Title": "Weybridge Job centre DWP",
+    "Region": "",
+    "Address 1": "Fortune House",
+    "Address 2": "Monument Hill",
+    "Address 3": "",
+    "Town/City": "Weybridge",
+    "Postcode": "KT13 8RX",
+    "Floor": "2 (top)",
+    "Block": "",
+    "Room": "Multifaith prayer room",
+    "Timing": "",
+    "Gender": "",
+    "Wudhu": "No facilities - Use the staff toilets",
+    "Size": "",
+    "Jummah time": "No Jummah - use nearby mosque",
+    "Closest Masjids": "KT152PX",
+    "Alert": 1,
+    "Fill details": 0,
+    "Notes": ""
   }
 ]

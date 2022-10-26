@@ -313,5 +313,20 @@ const MasjidList = [
     "Fill details": "",
     "Jummah timing": "",
     "Notes": "Please note that Jummah prayers are prayed here for Brother only and there are two Jamaats. Call to confirm time."
+  },
+  {
+    "Title": "Surrey Muslim Centre",
+    "Match_ID": "KT152PX",
+    "Address 1": "Albert Road",
+    "Address 2": "Addlestone",
+    "Address 3": "",
+    "Town/City": "Surrey",
+    "Postcode": "KT15 2PX",
+    "Tel": "+447738265231, +447956289748, +447809239518",
+    "Email": "info@surreymuslimcentre.com",
+    "Website": "https://surreymuslimcentre.com/",
+    "Fill details": "",
+    "Jummah timing": "1ST JAMAAT @ 1:30 PM 2nd JAMAAT @ 2:30 PM (BST)",
+    "Notes": "Check website for latest prayer times"
   }
 ]
