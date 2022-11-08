@@ -328,5 +328,35 @@ const MasjidList = [
     "Fill details": "",
     "Jummah timing": "1ST JAMAAT @ 1:30 PM 2nd JAMAAT @ 2:30 PM (BST)",
     "Notes": "Check website for latest prayer times"
+  },
+  {
+    "Title": "Masjid Imdadia",
+    "Match_ID": "M169LJ",
+    "Address 1": "26 Blackburn St",
+    "Address 2": "Old Trafford",
+    "Address 3": "Stretford",
+    "Town/City": "Manchester",
+    "Postcode": "M16 9LJ",
+    "Tel": "0161 232 9851",
+    "Email": "",
+    "Website": "",
+    "Fill details": "",
+    "Jummah timing": "",
+    "Notes": ""
+  },
+  {
+    "Title": "Jame'ah Masjid E Noor",
+    "Match_ID": "M169JE",
+    "Address 1": "87 Stamford St",
+    "Address 2": "Old Trafford",
+    "Address 3": "Stretford",
+    "Town/City": "Manchester",
+    "Postcode": "M16 9JE",
+    "Tel": "0161 227 8687",
+    "Email": "",
+    "Website": "",
+    "Fill details": "",
+    "Jummah timing": "",
+    "Notes": ""
   }
 ]
