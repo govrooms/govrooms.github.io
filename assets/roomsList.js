@@ -2203,5 +2203,26 @@ const RoomsList = [
     "Alert": 0,
     "Fill details": 1,
     "Notes": ""
+  },
+  {
+    "Title": "Guisborough Jobcentre - Nathan House",
+    "Region": "",
+    "Address 1": "Nathan House",
+    "Address 2": "Northgate",
+    "Address 3": "",
+    "Town/City": "Guisborough",
+    "Postcode": "TS14 6JS",
+    "Floor": 1,
+    "Block": "",
+    "Room": "",
+    "Timing": "",
+    "Gender": "",
+    "Wudhu": "",
+    "Size": "",
+    "Jummah time": "",
+    "Closest Masjids": "",
+    "Alert": "",
+    "Fill details": "",
+    "Notes": ""
   }
 ]
