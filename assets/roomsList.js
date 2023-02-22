@@ -2310,7 +2310,7 @@ const RoomsList = [
     "Notes": ""
   },
   {
-    "Title": "Manchester Soapworks building - Home Office area",
+    "Title": "Manchester Soapworks building - Home Office",
     "Region": "",
     "Address 1": "Colgate Ln",
     "Address 2": "",
