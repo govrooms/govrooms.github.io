@@ -41,7 +41,7 @@ const MasjidList = [
     "Email": "",
     "Website": "https://www.theabbeycentre.org.uk/",
     "Fill details": 1,
-    "Jummah timing": "1st Jamat 1.15pm. 2nd Jamat 1.35pm (summer) - was before: 1st Jamaat at 12:40 and 2nd at 1:05 Jummah (winter)",
+    "Jummah timing": "1st Jamat 1.15pm. 2nd Jamat 1.35pm/1:45pm (summer) - was before: 1st Jamaat at 12:40 and 2nd at 1:05 Jummah (winter)",
     "Notes": "Please call and check Jummah timing"
   },
   {
@@ -71,8 +71,8 @@ const MasjidList = [
     "Email": "",
     "Website": "",
     "Fill details": 1,
-    "Jummah timing": "",
-    "Notes": ""
+    "Jummah timing": "12.30pm 1st Jamat, 1pm 2nd Jamat - as of 3rd Feb 2023",
+    "Notes": "Please call the number above to get the latest Jummah timing. Also ignore the Covid banner on the website as Jummah is back on and other prayers.\nThere is no Fajr prayer though"
   },
   {
     "Title": "Kurdish Islamic Center And Masjid Salahuddin",
@@ -358,5 +358,65 @@ const MasjidList = [
     "Fill details": "",
     "Jummah timing": "",
     "Notes": ""
+  },
+  {
+    "Title": "Bristol Jamia Mosque",
+    "Match_ID": "BS34UB",
+    "Address 1": "Green St",
+    "Address 2": "Totterdown",
+    "Address 3": "St Katherine church site",
+    "Town/City": "Bristol",
+    "Postcode": "BS3 4UB",
+    "Tel": "",
+    "Email": "",
+    "Website": "",
+    "Fill details": "",
+    "Jummah timing": "",
+    "Notes": ""
+  },
+  {
+    "Title": "Masjid Abbasiya",
+    "Match_ID": "BD37ER",
+    "Address 1": "1D Moor Park Drive",
+    "Address 2": "",
+    "Address 3": "",
+    "Town/City": "Bradford",
+    "Postcode": "BD3 7ER",
+    "Tel": "07723 184293",
+    "Email": "",
+    "Website": "",
+    "Fill details": "",
+    "Jummah timing": "Summer: 1.30pm and 2.30pm. Winter: First Jamat 12.30pm, Second Jamat 1.30pm. - please confirm with mosque",
+    "Notes": ""
+  },
+  {
+    "Title": "Baitul Aziz Islamic Cultural Centre",
+    "Match_ID": "SE14JL",
+    "Address 1": "1 Dickens Square",
+    "Address 2": "",
+    "Address 3": "",
+    "Town/City": "London",
+    "Postcode": "SE1 4JL",
+    "Tel": "020 7378 7764",
+    "Email": "",
+    "Website": "",
+    "Fill details": "",
+    "Jummah timing": "Winter: 1.05pm, Summer: 1.30pm - always confirm with masjid",
+    "Notes": ""
+  },
+  {
+    "Title": "Tothill House",
+    "Match_ID": "SW1P4HB",
+    "Address 1": "Vincent street",
+    "Address 2": "",
+    "Address 3": "",
+    "Town/City": "London",
+    "Postcode": "SW1P 4HB",
+    "Tel": "",
+    "Email": "",
+    "Website": "",
+    "Fill details": "",
+    "Jummah timing": "1.25pm",
+    "Notes": "Jummah salat only"
   }
 ]
