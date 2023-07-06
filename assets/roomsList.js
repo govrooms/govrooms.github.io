@@ -189,7 +189,7 @@ const RoomsList = [
     "Notes": ""
   },
   {
-    "Title": "Crown House (HMCTS)",
+    "Title": "Loughborough Crown House (HMCTS)",
     "Region": "",
     "Address 1": "Southfield Road",
     "Address 2": "",
@@ -204,7 +204,7 @@ const RoomsList = [
     "Wudhu": "",
     "Size": "",
     "Jummah time": "",
-    "Closest Masjids": "",
+    "Closest Masjids": "LE111SG,LE111SD",
     "Alert": 1,
     "Fill details": 1,
     "Notes": ""
@@ -2434,5 +2434,26 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "multifaith room including wudhuu khana for staff use as well as prisoner's needs (jumah prayers).\nquiet reflection room also available in the chaplaincy.\nchaplaincy manager must be informed before use."
+  },
+  {
+    "Title": "MHRA South Mimms",
+    "Region": "",
+    "Address 1": "Blanche Ln",
+    "Address 2": "South Mimms",
+    "Address 3": "",
+    "Town/City": "Potters Bar",
+    "Postcode": "EN6 3QG",
+    "Floor": "Ground",
+    "Block": "",
+    "Room": "Contemplation room",
+    "Timing": "",
+    "Gender": "Mixed",
+    "Wudhu": "No Wudhu area",
+    "Size": "",
+    "Jummah time": "",
+    "Closest Masjids": "EN63BP",
+    "Alert": 1,
+    "Fill details": 1,
+    "Notes": ""
   }
 ]

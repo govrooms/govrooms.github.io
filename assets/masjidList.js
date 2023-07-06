@@ -418,5 +418,50 @@ const MasjidList = [
     "Fill details": "",
     "Jummah timing": "1.25pm",
     "Notes": "Jummah salat only"
+  },
+  {
+    "Title": "Potters Bar Islamic Cultural Centre",
+    "Match_ID": "EN63BP",
+    "Address 1": "363 Mutton Ln",
+    "Address 2": "Elm Court Youth & Community Centre",
+    "Address 3": "",
+    "Town/City": "Potters Bar",
+    "Postcode": "EN6 3BP",
+    "Tel": "",
+    "Email": "",
+    "Website": "",
+    "Fill details": "",
+    "Jummah timing": "",
+    "Notes": ""
+  },
+  {
+    "Title": "Loughborough Muslim Centre (LMC)",
+    "Match_ID": "LE111SG",
+    "Address 1": "30 Queen Street",
+    "Address 2": "",
+    "Address 3": "",
+    "Town/City": "Loughborough",
+    "Postcode": "LE11 1SG",
+    "Tel": "07724713110",
+    "Email": "",
+    "Website": "",
+    "Fill details": 0,
+    "Jummah timing": "",
+    "Notes": "8 minute walk from Loughborough Crown Court"
+  },
+  {
+    "Title": "Loughborough Mosque & Islamic Centre",
+    "Match_ID": "LE111SD",
+    "Address 1": "83-85 New King St",
+    "Address 2": "",
+    "Address 3": "",
+    "Town/City": "Loughborough",
+    "Postcode": "LE11 1SD",
+    "Tel": "01509 214500",
+    "Email": "",
+    "Website": "",
+    "Fill details": "",
+    "Jummah timing": "",
+    "Notes": "10 minute walk from Crown Court"
   }
 ]
