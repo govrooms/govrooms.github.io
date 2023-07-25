@@ -463,5 +463,20 @@ const MasjidList = [
     "Fill details": "",
     "Jummah timing": "",
     "Notes": "10 minute walk from Crown Court"
+  },
+  {
+    "Title": "Andalus Community Centre",
+    "Match_ID": "S25TR",
+    "Address 1": "35-37 Exchange Street",
+    "Address 2": "Mudfords Building",
+    "Address 3": "",
+    "Town/City": "Sheffield",
+    "Postcode": "S2 5TR",
+    "Tel": "",
+    "Email": "",
+    "Website": "http://www.andalus.org.uk/",
+    "Fill details": 1,
+    "Jummah timing": "1.30 (summer) / 12.30 (winter)",
+    "Notes": ""
   }
 ]
