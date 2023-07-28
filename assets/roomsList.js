@@ -2518,5 +2518,26 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": 1,
     "Notes": "It contains storage but there is enough space for prayer."
+  },
+  {
+    "Title": "Benton Park View (DWP, HMRC)",
+    "Region": "",
+    "Address 1": "BENTON PARK ROAD",
+    "Address 2": "",
+    "Address 3": "",
+    "Town/City": "Newcastle upon Tyne",
+    "Postcode": "NE98 1ZZ",
+    "Floor": 2,
+    "Block": 3,
+    "Room": "BP3 2 10 (room 10)",
+    "Timing": "Open all day",
+    "Gender": "Both",
+    "Wudhu": "None",
+    "Size": "",
+    "Jummah time": "None",
+    "Closest Masjids": "",
+    "Alert": "",
+    "Fill details": "",
+    "Notes": ""
   }
 ]
