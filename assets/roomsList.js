@@ -2539,5 +2539,26 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": ""
+  },
+  {
+    "Title": "Cheylesmore House - Department for Education",
+    "Region": "",
+    "Address 1": "5 Quinton Rd",
+    "Address 2": "",
+    "Address 3": "",
+    "Town/City": "Coventry",
+    "Postcode": "CV1 2WT",
+    "Floor": "Ground",
+    "Block": "Main building where the reception is (North building)",
+    "Room": "Contemplation room",
+    "Timing": "",
+    "Gender": "Divider in the room. The left side is for women and the right side is for men.",
+    "Wudhu": "Upon entering the prayer room there is a room on the left with wudhu facilities.",
+    "Size": "",
+    "Jummah time": "",
+    "Closest Masjids": "",
+    "Alert": "",
+    "Fill details": "",
+    "Notes": "on the right after the security gates in a short corridor in front of the stairs"
   }
 ]
