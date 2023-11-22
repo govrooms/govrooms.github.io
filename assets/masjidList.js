@@ -478,5 +478,20 @@ const MasjidList = [
     "Fill details": 1,
     "Jummah timing": "1.30 (summer) / 12.30 (winter)",
     "Notes": ""
+  },
+  {
+    "Title": "Masjid us sunnah",
+    "Match_ID": "TW59TN",
+    "Address 1": "654 Bath Road",
+    "Address 2": "Cranford",
+    "Address 3": "Middlesex",
+    "Town/City": "London",
+    "Postcode": "TW5 9TN",
+    "Tel": "",
+    "Email": "",
+    "Website": "http://masjidussunnah.co.uk/",
+    "Fill details": "",
+    "Jummah timing": "12.30pm (winter, Always double check)",
+    "Notes": "Parking available"
   }
 ]
