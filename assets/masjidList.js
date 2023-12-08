@@ -493,5 +493,35 @@ const MasjidList = [
     "Fill details": "",
     "Jummah timing": "12.30pm (winter, Always double check)",
     "Notes": "Parking available"
+  },
+  {
+    "Title": "Jalalabad Mosque",
+    "Match_ID": "B296DR",
+    "Address 1": "24-26 Dartmouth Rd",
+    "Address 2": "Selly Oak",
+    "Address 3": "",
+    "Town/City": "Birmingham",
+    "Postcode": "B29 6DR",
+    "Tel": "",
+    "Email": "",
+    "Website": "",
+    "Fill details": "",
+    "Jummah timing": "",
+    "Notes": ""
+  },
+  {
+    "Title": "Birmingham New Street Station Prayer area",
+    "Match_ID": "B24QA",
+    "Address 1": "Station Street",
+    "Address 2": "",
+    "Address 3": "",
+    "Town/City": "",
+    "Postcode": "B2 4QA",
+    "Tel": "",
+    "Email": "",
+    "Website": "",
+    "Fill details": "",
+    "Jummah timing": "",
+    "Notes": "Prayer space available - Dhuhr Jamat normally between 1.15 to 1.30"
   }
 ]
