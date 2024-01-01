@@ -2791,5 +2791,26 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "Swipe ID to enter through secure door. Prayer room on left through corridor."
+  },
+  {
+    "Title": "Millennium House - Stockport BSC (DWP)",
+    "Region": "",
+    "Address 1": "Wellington Road South",
+    "Address 2": "Stockport",
+    "Address 3": "",
+    "Town/City": "Manchester",
+    "Postcode": "SK1 3UH",
+    "Floor": "Ground",
+    "Block": "Near Business Support office",
+    "Room": "",
+    "Timing": "",
+    "Gender": "Mixed with partition",
+    "Wudhu": "No specific Wudu facilities but shower rooms available",
+    "Size": "",
+    "Jummah time": "None",
+    "Closest Masjids": "",
+    "Alert": 1,
+    "Fill details": 1,
+    "Notes": ""
   }
 ]
