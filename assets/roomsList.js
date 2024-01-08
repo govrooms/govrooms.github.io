@@ -393,7 +393,7 @@ const RoomsList = [
     "Wudhu": "Yes within rooms",
     "Size": "",
     "Jummah time": "",
-    "Closest Masjids": "SW1P4HB,SW1P3BU,SW1V4LP",
+    "Closest Masjids": "SW1P4HB,SW1P4HB2,SW1V4LP",
     "Alert": "",
     "Fill details": "",
     "Notes": "The room used by sisters has a curtain to offer some privacy at the wudhu sink since it is visible from the doorway. I think the wall between the two is removeable?   In London 2MS, on Friday's there is a space near Edward Alsop Court (Across the street from 2MS) to pray Friday Jummah. I can't confirm if they accommodate for sisters, but there is space for men."
@@ -519,7 +519,7 @@ const RoomsList = [
     "Wudhu": "",
     "Size": "",
     "Jummah time": "",
-    "Closest Masjids": "SW1P4HB,SW1P3BU,SW1V4LP",
+    "Closest Masjids": "SW1P4HB,SW1P4HB2,SW1V4LP",
     "Alert": "",
     "Fill details": "",
     "Notes": ""
@@ -645,7 +645,7 @@ const RoomsList = [
     "Wudhu": "",
     "Size": "",
     "Jummah time": "",
-    "Closest Masjids": "SW1P4HB,SW1P3BU,SW1V4LP",
+    "Closest Masjids": "SW1P4HB,SW1P4HB2,SW1V4LP",
     "Alert": "",
     "Fill details": "",
     "Notes": ""
@@ -708,7 +708,7 @@ const RoomsList = [
     "Wudhu": "",
     "Size": "",
     "Jummah time": "",
-    "Closest Masjids": "SW1P4HB,SW1P3BU,SW1V4LP",
+    "Closest Masjids": "SW1P4HB,SW1P4HB2,SW1V4LP",
     "Alert": "",
     "Fill details": "",
     "Notes": ""
@@ -771,7 +771,7 @@ const RoomsList = [
     "Wudhu": "",
     "Size": "",
     "Jummah time": "",
-    "Closest Masjids": "SW1P4HB,SW1P3BU,SW1V4LP",
+    "Closest Masjids": "SW1P4HB,SW1P4HB2,SW1V4LP",
     "Alert": "",
     "Fill details": "",
     "Notes": ""
@@ -939,7 +939,7 @@ const RoomsList = [
     "Wudhu": "",
     "Size": "",
     "Jummah time": "",
-    "Closest Masjids": "SW1P4HB,SW1P3BU,SW1V4LP",
+    "Closest Masjids": "SW1P4HB,SW1P4HB2,SW1V4LP",
     "Alert": "",
     "Fill details": "",
     "Notes": ""
@@ -960,7 +960,7 @@ const RoomsList = [
     "Wudhu": "",
     "Size": "",
     "Jummah time": "",
-    "Closest Masjids": "SW1P4HB,SW1P3BU,SW1V4LP",
+    "Closest Masjids": "SW1P4HB,SW1P4HB2,SW1V4LP",
     "Alert": "",
     "Fill details": "",
     "Notes": ""
@@ -1065,7 +1065,7 @@ const RoomsList = [
     "Wudhu": "",
     "Size": "",
     "Jummah time": "",
-    "Closest Masjids": "SW1P4HB,SW1P3BU,SW1V4LP",
+    "Closest Masjids": "SW1P4HB,SW1P4HB2,SW1V4LP",
     "Alert": "",
     "Fill details": "",
     "Notes": ""
@@ -1107,7 +1107,7 @@ const RoomsList = [
     "Wudhu": "Yes - opposite male prayer room, separate for genders",
     "Size": "Brothers: About 35, sisters about 8",
     "Jummah time": "Khutba around 1pm winter, 1.15pm summer, double check with Muslim security or facilities manager (iqbal.jhuti@Justice.gov.uk). Or check notice board in prayer room.",
-    "Closest Masjids": "SW1P4HB,SW1P3BU,SW1V4LP",
+    "Closest Masjids": "SW1P4HB,SW1P4HB2,SW1V4LP",
     "Alert": 0,
     "Fill details": 0,
     "Notes": "Ministry of Justice/Government Legal Department/Crown Prosecution Service/Her Majesty's Court and Tribunal Service\n\nGo down stairs towards the left after entering through security gates. \n\nBrothers: take left, go through double doors, Then door on right. (see room on left and wudhu on right)\n\nSisters: Take right from stairs then 1st left corridor. Room is on right. Use Wudhu area next to brothers one."
@@ -1128,7 +1128,7 @@ const RoomsList = [
     "Wudhu": "",
     "Size": "",
     "Jummah time": "Jummah time first Azan at 1.15 and second Azan at 1.25.",
-    "Closest Masjids": "SW1P4HB,SW1P3BU,SW1V4LP",
+    "Closest Masjids": "SW1P4HB,SW1P4HB2,SW1V4LP",
     "Alert": "",
     "Fill details": "",
     "Notes": ""
@@ -1191,7 +1191,7 @@ const RoomsList = [
     "Wudhu": "",
     "Size": "",
     "Jummah time": "",
-    "Closest Masjids": "SW1P4HB,SW1P3BU,SW1V4LP",
+    "Closest Masjids": "SW1P4HB,SW1P4HB2,SW1V4LP",
     "Alert": "",
     "Fill details": "",
     "Notes": ""
@@ -1212,7 +1212,7 @@ const RoomsList = [
     "Wudhu": "",
     "Size": "",
     "Jummah time": "",
-    "Closest Masjids": "SW1P4HB,SW1P3BU,SW1V4LP",
+    "Closest Masjids": "SW1P4HB,SW1P4HB2,SW1V4LP",
     "Alert": "",
     "Fill details": "",
     "Notes": ""
@@ -1254,7 +1254,7 @@ const RoomsList = [
     "Wudhu": "",
     "Size": "",
     "Jummah time": "",
-    "Closest Masjids": "SW1P4HB,SW1P3BU,SW1V4LP",
+    "Closest Masjids": "SW1P4HB,SW1P4HB2,SW1V4LP",
     "Alert": "",
     "Fill details": "",
     "Notes": ""
@@ -1275,7 +1275,7 @@ const RoomsList = [
     "Wudhu": "",
     "Size": "",
     "Jummah time": "",
-    "Closest Masjids": "SW1P4HB,SW1P3BU,SW1V4LP",
+    "Closest Masjids": "SW1P4HB,SW1P4HB2,SW1V4LP",
     "Alert": "",
     "Fill details": "",
     "Notes": ""
@@ -1485,7 +1485,7 @@ const RoomsList = [
     "Wudhu": "Included in rooms",
     "Size": "About 10 people",
     "Jummah time": "Use 102 Petty France",
-    "Closest Masjids": "SW1P4HB,SW1P3BU,SW1V4LP",
+    "Closest Masjids": "SW1P4HB,SW1P4HB2,SW1V4LP",
     "Alert": "",
     "Fill details": 1,
     "Notes": "Go through barriers then turn left, down tiny stair case. Then keep going straight through few double door sets, pass working area, keep going straight through more doors. Then when you can't go further then turn right (pass toilet), and right again. \n\nReflection rooms also available at 102 PF lower ground (See 102PF listing)."
@@ -1884,7 +1884,7 @@ const RoomsList = [
     "Wudhu": "Yes available",
     "Size": "",
     "Jummah time": "",
-    "Closest Masjids": "SW1P4HB,SW1P3BU,SW1V4LP",
+    "Closest Masjids": "SW1P4HB,SW1P4HB2,SW1V4LP",
     "Alert": "",
     "Fill details": 1,
     "Notes": ""

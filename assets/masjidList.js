@@ -30,7 +30,7 @@ const MasjidList = [
     "Notes": ""
   },
   {
-    "Title": "Abbey centre",
+    "Title": "Abbey centre (No more Jumu'ah / Friday prayers)",
     "Match_ID": "SW1P3BU",
     "Address 1": "34 Great Smith St",
     "Address 2": "London",
@@ -42,7 +42,7 @@ const MasjidList = [
     "Website": "https://www.theabbeycentre.org.uk/",
     "Fill details": 1,
     "Jummah timing": "1st Jamat 1.15pm. 2nd Jamat 1.35pm/1:45pm (summer) - was before: 1st Jamaat at 12:40 and 2nd at 1:05 Jummah (winter)",
-    "Notes": "Please call and check Jummah timing"
+    "Notes": "Note: No more Friday prayers at Abbey Centre (updated 8th Jan 2024)"
   },
   {
     "Title": "Space near Edward Alsop Court (Across the street from 2MS) for Jummah",
@@ -523,5 +523,20 @@ const MasjidList = [
     "Fill details": "",
     "Jummah timing": "",
     "Notes": "Prayer space available - Dhuhr Jamat normally between 1.15 to 1.30"
+  },
+  {
+    "Title": "Grosvenor Hall",
+    "Match_ID": "SW1P4HB2",
+    "Address 1": "Vincent Street",
+    "Address 2": "",
+    "Address 3": "",
+    "Town/City": "London",
+    "Postcode": "SW1P 4HB",
+    "Tel": "",
+    "Email": "",
+    "Website": "",
+    "Fill details": "",
+    "Jummah timing": "Winter: 12:15, 12:45, 1:15",
+    "Notes": "Community hall, used for Jumu'ah prayers."
   }
 ]
