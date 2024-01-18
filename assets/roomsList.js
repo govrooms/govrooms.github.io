@@ -1842,20 +1842,20 @@ const RoomsList = [
     "Wudhu": "There are no dedicated wudhu facilities; anyone would just do the usual use a sink in the toilets or shower.",
     "Size": "3 people",
     "Jummah time": "",
-    "Closest Masjids": "",
+    "Closest Masjids": "SW1P4HB,SW1P4HB2,SW1V4LP",
     "Alert": 1,
     "Fill details": 1,
     "Notes": "Also consider other prayer rooms on Whitehall (try searching)"
   },
   {
-    "Title": "CCS Capital Building Crown Commercial Service",
+    "Title": "Capital Building Crown Commercial Service / Home Office",
     "Region": "",
     "Address 1": "39 Old Hall Street",
     "Address 2": "",
     "Address 3": "",
     "Town/City": "Liverpool",
     "Postcode": "L3 9PP",
-    "Floor": "1 and 2",
+    "Floor": "minus -1 and 2",
     "Block": "",
     "Room": "",
     "Timing": "",
@@ -1866,7 +1866,7 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": 1,
-    "Notes": "Signed from lift lobby"
+    "Notes": "Signed from lift lobby Level (minus 1) -1. Room 1) Small room that comes first after you walk from the Lifts. Room 2) Relatively Large room in Interview Area Canteen – Not segregated.\nRequires passcode to get in."
   },
   {
     "Title": "HM Passport office, Globe House",
@@ -2811,6 +2811,27 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": 1,
     "Fill details": 1,
+    "Notes": ""
+  },
+  {
+    "Title": "Vulcan House - Home Office",
+    "Region": "",
+    "Address 1": "Vulcan House Steel and Vulcan House Iron",
+    "Address 2": "",
+    "Address 3": "",
+    "Town/City": "Sheffield",
+    "Postcode": "S3 8NU",
+    "Floor": "Steel - Level 5, Iron - Level 1",
+    "Block": "Steel and Iron",
+    "Room": "Multi-faith room (Signposted)",
+    "Timing": "",
+    "Gender": "Male and Female facilities available",
+    "Wudhu": "",
+    "Size": "",
+    "Jummah time": "",
+    "Closest Masjids": "",
+    "Alert": "",
+    "Fill details": "",
     "Notes": ""
   }
 ]
