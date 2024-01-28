@@ -897,7 +897,7 @@ const RoomsList = [
     "Wudhu": "",
     "Size": "",
     "Jummah time": "",
-    "Closest Masjids": "",
+    "Closest Masjids": "SW1P4HB,SW1P4HB2,SW1V4LP",
     "Alert": "",
     "Fill details": "",
     "Notes": ""
@@ -919,27 +919,6 @@ const RoomsList = [
     "Size": "",
     "Jummah time": "",
     "Closest Masjids": "",
-    "Alert": "",
-    "Fill details": "",
-    "Notes": ""
-  },
-  {
-    "Title": "Department for Transport",
-    "Region": "",
-    "Address 1": "33 Horseferry Road,",
-    "Address 2": "London,",
-    "Address 3": "",
-    "Town/City": "Westminster",
-    "Postcode": "SW1P 4DR",
-    "Floor": "",
-    "Block": "",
-    "Room": "4th Floor (bros), 3rd floor (sisters)",
-    "Timing": "",
-    "Gender": "",
-    "Wudhu": "",
-    "Size": "",
-    "Jummah time": "",
-    "Closest Masjids": "SW1P4HB,SW1P4HB2,SW1V4LP",
     "Alert": "",
     "Fill details": "",
     "Notes": ""
@@ -2833,5 +2812,26 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": ""
+  },
+  {
+    "Title": "Probation Service Office Sceptre House",
+    "Region": "",
+    "Address 1": "7-9 Castle Street",
+    "Address 2": "",
+    "Address 3": "",
+    "Town/City": "Luton",
+    "Postcode": "LU1 3AA",
+    "Floor": 2,
+    "Block": "",
+    "Room": "First room on left has poster",
+    "Timing": "9:00 - 17:00 (The main doors on ground floor get locked after 5pm)",
+    "Gender": "Mixed with partition",
+    "Wudhu": "",
+    "Size": 4,
+    "Jummah time": "",
+    "Closest Masjids": "LU12TW,LU15LY,LU11HB,LU11HE,LU48JD",
+    "Alert": 1,
+    "Fill details": 0,
+    "Notes": "The Probation office is on the 1st floor, reception will open the door if buzzed. \nThe prayer room is one the second floor, no pass needed, door is open - The first door to the left is the prayer room (Poster indicates prayer room). There are four prayer mats and there's a divider in the middle for privacy and separation for men and women.\n\n(Reception on ground floor will be able to assist)"
   }
 ]
