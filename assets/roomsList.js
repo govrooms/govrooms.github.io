@@ -315,48 +315,6 @@ const RoomsList = [
     "Notes": ""
   },
   {
-    "Title": "TBH",
-    "Region": "",
-    "Address 1": "",
-    "Address 2": "",
-    "Address 3": "",
-    "Town/City": "Manchestere",
-    "Postcode": "",
-    "Floor": "",
-    "Block": "",
-    "Room": "Reflection room",
-    "Timing": "",
-    "Gender": "",
-    "Wudhu": "Yes",
-    "Size": "",
-    "Jummah time": "",
-    "Closest Masjids": "",
-    "Alert": "",
-    "Fill details": "",
-    "Notes": ""
-  },
-  {
-    "Title": "ABH",
-    "Region": "",
-    "Address 1": "",
-    "Address 2": "",
-    "Address 3": "",
-    "Town/City": "Manchestere",
-    "Postcode": "",
-    "Floor": "",
-    "Block": "",
-    "Room": "Reflection room",
-    "Timing": "",
-    "Gender": "",
-    "Wudhu": "Yes",
-    "Size": "",
-    "Jummah time": "",
-    "Closest Masjids": "",
-    "Alert": "",
-    "Fill details": "",
-    "Notes": ""
-  },
-  {
     "Title": "3 Bailey Regional Centre",
     "Region": "",
     "Address 1": "",
@@ -2751,10 +2709,10 @@ const RoomsList = [
     "Notes": ""
   },
   {
-    "Title": "Home Office Leeds",
+    "Title": "Home Office - Waterside House/Court",
     "Region": "",
     "Address 1": "Building 1",
-    "Address 2": "Waterside Court",
+    "Address 2": "Waterside House",
     "Address 3": "471 Kirkstall Road",
     "Town/City": "Leeds",
     "Postcode": "LS4 2QD",
@@ -2769,7 +2727,7 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": "Swipe ID to enter through secure door. Prayer room on left through corridor."
+    "Notes": "Swipe ID to enter through secure door. Prayer room on left through corridor...We have 2 pray rooms on the Waterside estate, 1 in Waterside House and 1 in Waterside Court."
   },
   {
     "Title": "Millennium House - Stockport BSC (DWP)",
@@ -2959,5 +2917,26 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "Prayer mats, hats and Reading material available. Table and chairs too."
+  },
+  {
+    "Title": "Coventry Cofa Court - DWP",
+    "Region": "",
+    "Address 1": "Cheylesmore",
+    "Address 2": "",
+    "Address 3": "",
+    "Town/City": "Coventry",
+    "Postcode": "CV1 2HJ",
+    "Floor": 2,
+    "Block": "B",
+    "Room": "Tea Room",
+    "Timing": "8am to 6.30pm Monday to Saturday",
+    "Gender": "Male",
+    "Wudhu": "Yes, one standing sink",
+    "Size": "",
+    "Jummah time": "13:15",
+    "Closest Masjids": "",
+    "Alert": "",
+    "Fill details": "",
+    "Notes": "Contact: JCP Coventry Contact Centre BSU COVENTRY.CONTACTCENTREBSU@DWP.GOV.UK"
   }
 ]
