@@ -210,7 +210,7 @@ const MasjidList = [
     "Notes": "14 minutes wall away from the Land Registry office"
   },
   {
-    "Title": "Churchill Pace Shopping Mall",
+    "Title": "Churchill Pace Shopping Mall (Multi-faith)",
     "Match_ID": "E145RB",
     "Address 1": "2 Churchill Place",
     "Address 2": "",
@@ -222,7 +222,7 @@ const MasjidList = [
     "Website": "https://canarywharf.com/",
     "Fill details": "",
     "Jummah timing": "Men only: 1.05pm, Men & Women 1.40pm",
-    "Notes": "Link here: https://canarywharf.com/faqs/ - search for pray - Timetable for 2022 here: https://canarywharf.com/wp-content/uploads/2022/03/canary-wharf-prayer-room-timetable-28-mar-2022.pdf\nhttps://canarywharfchaplaincy.co.uk/"
+    "Notes": "Multifaith - certain times only for each faith - Access required - check times before going there or they won't allow you in. Link here: https://canarywharf.com/faqs/ - search for pray - Timetable for 2022 here: https://canarywharf.com/wp-content/uploads/2022/03/canary-wharf-prayer-room-timetable-28-mar-2022.pdf\nhttps://canarywharfchaplaincy.co.uk/"
   },
   {
     "Title": "Masjid Al-Huda",
@@ -612,6 +612,21 @@ const MasjidList = [
     "Website": "",
     "Fill details": 1,
     "Jummah timing": "",
+    "Notes": ""
+  },
+  {
+    "Title": "Birmingham Central Mosque",
+    "Match_ID": "B120XS",
+    "Address 1": "180 Belgrave Middleway",
+    "Address 2": "",
+    "Address 3": "",
+    "Town/City": "Birmingham",
+    "Postcode": "B12 0XS",
+    "Tel": "0121 440 5355",
+    "Email": "",
+    "Website": "https://centralmosque.org.uk/",
+    "Fill details": "",
+    "Jummah timing": "1:15pm (March 2024)",
     "Notes": ""
   }
 ]
