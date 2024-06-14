@@ -2310,7 +2310,7 @@ const RoomsList = [
     "Notes": ""
   },
   {
-    "Title": "Mitre House Probation contact centre",
+    "Title": "Mitre House Probation contact centre (See notes)",
     "Region": "",
     "Address 1": "233-237 Borough High Street",
     "Address 2": "",
@@ -2328,7 +2328,7 @@ const RoomsList = [
     "Closest Masjids": "SE14JL",
     "Alert": 0,
     "Fill details": 1,
-    "Notes": "Baitul Aziz Masjid - 5 mins away"
+    "Notes": "IMPORTANT: Room 3D (formerly KSS RPD’s office) has been designated a temporary replacement prayer room due to having Radon in the basement. The room can be used for sensitive calls too. Book via Matrix. Signs available which they can put up to show it is occupied.   \n\nBaitul Aziz Masjid - 5 mins away"
   },
   {
     "Title": "Old Bailey Central Criminal Court",
@@ -2604,7 +2604,7 @@ const RoomsList = [
     "Notes": "Take the stairs up to the first floor which are near Junction 5. At the top of the stairs go through the door on the left. Phone: 020 8535 6988"
   },
   {
-    "Title": "Amadeus House",
+    "Title": "Amadeus House (Home Office)",
     "Region": "",
     "Address 1": "Mondial Way",
     "Address 2": "",
@@ -2613,16 +2613,16 @@ const RoomsList = [
     "Postcode": "UB3 5AR",
     "Floor": "Ground",
     "Block": "",
-    "Room": "Wellbeing room",
+    "Room": "Multi faith room",
     "Timing": "24/7",
-    "Gender": "Mixed with screen separator",
-    "Wudhu": "Use disabled toilets on same floor",
-    "Size": 6,
-    "Jummah time": "No Jummah",
+    "Gender": "None, but there is a sliding sign on the door to allow users to know the room is occupied or vacant.",
+    "Wudhu": "Sink available in the room",
+    "Size": "5 people",
+    "Jummah time": "No Jummah but group can arrange",
     "Closest Masjids": "TW59TN",
     "Alert": 1,
     "Fill details": "",
-    "Notes": "When you enter the building, take the left door after security, take the left door again and follow around to the left, it is marked up as a wellbeing room. There are prayer mats available, hijabs, tasbih, and reading material including the Quran and translations."
+    "Notes": "When you enter the building, take a left after security where you will find a door.  The multi faith room is directly in front once you enter this door.\n\nThere are prayer mats, hijabs and tasbih available.  The new room has a Qibla direction sign, chair, working sink and wudhu facilities.\n\nThe reading material including the Quran and translations can be found in the wellbeing room where the multifaith room was previously. (When you enter the building, take the left door after security, take the left door again and follow around to the left, it is marked up as a wellbeing room.)\n\nPlease kindly note and adhere to the signs put up for those using the multi faith room, placed by the accommodation team. \n\nChair available in the room"
   },
   {
     "Title": "Canon Bridge House Historic England / VisitBritain",
@@ -3106,5 +3106,26 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": 0,
     "Notes": "Prayer mats available"
+  },
+  {
+    "Title": "Leeds Magistrates Court - HMCTS",
+    "Region": "",
+    "Address 1": "1 Westgate",
+    "Address 2": "",
+    "Address 3": "",
+    "Town/City": "Leeds",
+    "Postcode": "LS1 3JP",
+    "Floor": 6,
+    "Block": "",
+    "Room": "Rest / prayer room",
+    "Timing": "",
+    "Gender": "mixed",
+    "Wudhu": "Yes",
+    "Size": "5-6 people",
+    "Jummah time": "Being worked on",
+    "Closest Masjids": "LS13EX",
+    "Alert": 0,
+    "Fill details": 1,
+    "Notes": "People walk to Leeds hospital to pray Jummah at the moment"
   }
 ]
