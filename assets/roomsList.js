@@ -18,7 +18,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": 0,
     "Fill details": "",
-    "Notes": "It also has seating areas within the room. There are separate wudhu rooms for males and females, just outside the entrance to the prayer room, with wudhu pods. There is clear signage to the prayer rooms from the hallway where the lifts are situated."
+    "Notes": "It also has seating areas within the room. There are separate wudhu rooms for males and females, just outside the entrance to the prayer room, with wudhu pods. There is clear signage to the prayer rooms from the hallway where the lifts are situated.",
+    "Halal food": ""
   },
   {
     "Title": "Southampton Combined court",
@@ -39,7 +40,8 @@ const RoomsList = [
     "Closest Masjids": "SO140BH",
     "Alert": 1,
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Embankment House, OPG, MoJ",
@@ -49,10 +51,10 @@ const RoomsList = [
     "Address 3": "",
     "Town/City": "Nottingham",
     "Postcode": "NG80 1RH",
-    "Floor": 2,
+    "Floor": 1,
     "Block": "",
-    "Room": 2.1,
-    "Timing": "Normally open",
+    "Room": "Next to 1.03",
+    "Timing": "Office hours",
     "Gender": "Unisex",
     "Wudhu": "Showers on ground floor (near cycle room) or disabled toilets",
     "Size": "",
@@ -60,7 +62,8 @@ const RoomsList = [
     "Closest Masjids": "NG22EJ",
     "Alert": 1,
     "Fill details": 1,
-    "Notes": ""
+    "Notes": "Used to be on floor 2 (2.1) - check if there's another one there?",
+    "Halal food": ""
   },
   {
     "Title": "Probation Office",
@@ -81,7 +84,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": 1,
     "Fill details": 1,
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Manchester Civil Justice centre (HMCTS)",
@@ -102,7 +106,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": 1,
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Perry Barr",
@@ -123,7 +128,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": 1,
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Lower Essex Street - Closed",
@@ -144,7 +150,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": 1,
     "Fill details": "",
-    "Notes": "THis office is now closed, we have moved over to 1st and 19th Floor, centre city tower, Birmingham, both floors have a prayer/contermplation rooms."
+    "Notes": "THis office is now closed, we have moved over to 1st and 19th Floor, centre city tower, Birmingham, both floors have a prayer/contermplation rooms.",
+    "Halal food": ""
   },
   {
     "Title": "Selly Oak Probation Office",
@@ -165,7 +172,8 @@ const RoomsList = [
     "Closest Masjids": "B296DR",
     "Alert": 1,
     "Fill details": "",
-    "Notes": "Contemplation/Prayer Room is only available to staff, working or based at this office"
+    "Notes": "Contemplation/Prayer Room is only available to staff, working or based at this office",
+    "Halal food": ""
   },
   {
     "Title": "Centenary house",
@@ -186,7 +194,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": 1,
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Loughborough Crown House (HMCTS)",
@@ -207,10 +216,11 @@ const RoomsList = [
     "Closest Masjids": "LE111SG,LE111SD",
     "Alert": 1,
     "Fill details": 1,
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
-    "Title": "10SC / Canary Wharf / 10 South Colonade",
+    "Title": "10SC / near Canary Wharf / 10 South Colonade",
     "Region": "",
     "Address 1": "10 south colonnade",
     "Address 2": "",
@@ -223,96 +233,13 @@ const RoomsList = [
     "Timing": "Office hours",
     "Gender": "1st floor - Unisex with curtain separater",
     "Wudhu": "1st floor room - Wudhu area available in 1st floor prayer room for separate genders",
-    "Size": "6 sisters on sisters side, some 12 brothers approx",
-    "Jummah time": "1pm on 1st floor according to what was written - always double check office staff",
+    "Size": "6 sisters on sisters side, some 20 brothers approx",
+    "Jummah time": "1.30pm summer, 12.45pm winter. On 1st floor  - always double check office staff. Contact: khaled.uddin@ukhsa.gov.uk",
     "Closest Masjids": "E145RB",
     "Alert": "",
     "Fill details": 1,
-    "Notes": ""
-  },
-  {
-    "Title": "Uni Centre",
-    "Region": "",
-    "Address 1": "",
-    "Address 2": "",
-    "Address 3": "",
-    "Town/City": "Preston",
-    "Postcode": "",
-    "Floor": "",
-    "Block": "",
-    "Room": "",
-    "Timing": "",
-    "Gender": "",
-    "Wudhu": "Yes",
-    "Size": "",
-    "Jummah time": "",
-    "Closest Masjids": "",
-    "Alert": "",
-    "Fill details": "",
-    "Notes": ""
-  },
-  {
-    "Title": "Guild Tower",
-    "Region": "",
-    "Address 1": "",
-    "Address 2": "",
-    "Address 3": "",
-    "Town/City": "Preston",
-    "Postcode": "",
-    "Floor": "",
-    "Block": "",
-    "Room": "",
-    "Timing": "",
-    "Gender": "",
-    "Wudhu": "Yes",
-    "Size": "",
-    "Jummah time": "",
-    "Closest Masjids": "",
-    "Alert": "",
-    "Fill details": "",
-    "Notes": ""
-  },
-  {
-    "Title": "St Marks",
-    "Region": "",
-    "Address 1": "",
-    "Address 2": "",
-    "Address 3": "",
-    "Town/City": "Preston",
-    "Postcode": "",
-    "Floor": "",
-    "Block": "",
-    "Room": "",
-    "Timing": "",
-    "Gender": "",
-    "Wudhu": "Yes",
-    "Size": "",
-    "Jummah time": "",
-    "Closest Masjids": "",
-    "Alert": "",
-    "Fill details": "",
-    "Notes": ""
-  },
-  {
-    "Title": "St Mary's",
-    "Region": "",
-    "Address 1": "",
-    "Address 2": "",
-    "Address 3": "",
-    "Town/City": "Preston",
-    "Postcode": "",
-    "Floor": "",
-    "Block": "",
-    "Room": "Reflection room",
-    "Timing": "",
-    "Gender": "Male/Female times allocated",
-    "Wudhu": "Yes",
-    "Size": "",
-    "Jummah time": "",
-    "Closest Masjids": "",
-    "Alert": "",
-    "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": "Available in canteen on 2nd floor"
   },
   {
     "Title": "3 Bailey Regional Centre",
@@ -333,7 +260,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "2 Marsham Street (2MS)",
@@ -354,7 +282,8 @@ const RoomsList = [
     "Closest Masjids": "SW1P4HB,SW1P4HB2,SW1V4LP",
     "Alert": "",
     "Fill details": "",
-    "Notes": "The room used by sisters has a curtain to offer some privacy at the wudhu sink since it is visible from the doorway. I think the wall between the two is removeable?   In London 2MS, on Friday's there is a space near Edward Alsop Court (Across the street from 2MS) to pray Friday Jummah. I can't confirm if they accommodate for sisters, but there is space for men."
+    "Notes": "The room used by sisters has a curtain to offer some privacy at the wudhu sink since it is visible from the doorway. I think the wall between the two is removeable?   In London 2MS, on Friday's there is a space near Edward Alsop Court (Across the street from 2MS) to pray Friday Jummah. I can't confirm if they accommodate for sisters, but there is space for men.",
+    "Halal food": ""
   },
   {
     "Title": "HM Revenue and Customs, Stratford Regional Centre",
@@ -375,7 +304,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": "It's located by the canteen but there is direct access through the lift lobby.  It's a non-segregated long room but does have (5ft high) room dividers and minimally furnished with sofas, cupboards, plants, chairs and tables.  There are dedicated wudhu facilities for brothers and sisters, next door to the prayer room.  There are also shower facilities on the Mezzanine floor (between 1st and 2nd floors)."
+    "Notes": "It's located by the canteen but there is direct access through the lift lobby.  It's a non-segregated long room but does have (5ft high) room dividers and minimally furnished with sofas, cupboards, plants, chairs and tables.  There are dedicated wudhu facilities for brothers and sisters, next door to the prayer room.  There are also shower facilities on the Mezzanine floor (between 1st and 2nd floors).",
+    "Halal food": ""
   },
   {
     "Title": "Passport Office",
@@ -396,7 +326,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": 1,
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Government Digital Service",
@@ -417,7 +348,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Home Office",
@@ -438,7 +370,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Home Office",
@@ -459,7 +392,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "BEIS",
@@ -480,7 +414,8 @@ const RoomsList = [
     "Closest Masjids": "SW1P4HB,SW1P4HB2,SW1V4LP",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "ONS / IPO",
@@ -501,7 +436,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "The Axis Building, Driver Vehicle Standards Agency",
@@ -522,7 +458,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Highways England",
@@ -543,7 +480,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": 1,
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Home Office",
@@ -564,7 +502,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Ofsted / DfE / Highways England / ACAS / ESFA",
@@ -585,7 +524,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "DFID",
@@ -606,7 +546,8 @@ const RoomsList = [
     "Closest Masjids": "SW1P4HB,SW1P4HB2,SW1V4LP",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Government Hub",
@@ -627,7 +568,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Defra",
@@ -648,7 +590,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "DEFRA/Home Office/MHCLG",
@@ -669,7 +612,8 @@ const RoomsList = [
     "Closest Masjids": "SW1P4HB,SW1P4HB2,SW1V4LP",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Gambling Commission",
@@ -690,7 +634,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Foreign and Commonwealth Office",
@@ -711,7 +656,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Ministry of Defence",
@@ -732,7 +678,8 @@ const RoomsList = [
     "Closest Masjids": "SW1P4HB,SW1P4HB2,SW1V4LP",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Competion and Markets Authority",
@@ -753,7 +700,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "GCHQ",
@@ -774,7 +722,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "ACAS/APHA/BEIS/Cabinet Office/DEFRA/DIT/GLAA/GPA/MHCLG/Natural England/RPA/The Insolvency Service",
@@ -795,7 +744,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "CCS",
@@ -816,7 +766,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Public Health England",
@@ -837,7 +788,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Department for Transport",
@@ -858,7 +810,8 @@ const RoomsList = [
     "Closest Masjids": "SW1P4HB,SW1P4HB2,SW1V4LP",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "HM Land Registry (Fylde)",
@@ -879,7 +832,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Department for International Development",
@@ -900,7 +854,8 @@ const RoomsList = [
     "Closest Masjids": "SW1P4HB,SW1P4HB2,SW1V4LP",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Department for International Development",
@@ -921,7 +876,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Department for International Trade",
@@ -942,7 +898,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Department for Work and Pensions",
@@ -963,7 +920,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": "Used to be on third floor on front side of building right opposite the Canteen entrance"
+    "Notes": "Used to be on third floor on front side of building right opposite the Canteen entrance",
+    "Halal food": ""
   },
   {
     "Title": "HMRC/CSHR",
@@ -984,7 +942,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "ONS/UKSA",
@@ -1005,7 +964,8 @@ const RoomsList = [
     "Closest Masjids": "SW1P4HB,SW1P4HB2,SW1V4LP",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "NCA",
@@ -1026,7 +986,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "102 Petty France (102PF)",
@@ -1047,7 +1008,8 @@ const RoomsList = [
     "Closest Masjids": "SW1P4HB,SW1P4HB2,SW1V4LP",
     "Alert": 0,
     "Fill details": 0,
-    "Notes": "Ministry of Justice/Government Legal Department/Crown Prosecution Service/Her Majesty's Court and Tribunal Service\n\nGo down stairs towards the left after entering through security gates. \n\nBrothers: take left, go through double doors, Then door on right. (see room on left and wudhu on right)\n\nSisters: Take right from stairs then 1st left corridor. Room is on right. Use Wudhu area next to brothers one."
+    "Notes": "Ministry of Justice/Government Legal Department/Crown Prosecution Service/Her Majesty's Court and Tribunal Service\n\nGo down stairs towards the left after entering through security gates. \n\nBrothers: take left, go through double doors, Then door on right. (see room on left and wudhu on right)\n\nSisters: Take right from stairs then 1st left corridor. Room is on right. Use Wudhu area next to brothers one.",
+    "Halal food": ""
   },
   {
     "Title": "HMT / DCMS / Cabinet Office / HMRC / NIO",
@@ -1068,7 +1030,8 @@ const RoomsList = [
     "Closest Masjids": "SW1P4HB,SW1P4HB2,SW1V4LP",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Department for Work and Pensions",
@@ -1089,7 +1052,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "DHSC",
@@ -1110,7 +1074,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": "room 7C03(Male) 1C18 (female) - now closed (sep 2022)"
+    "Notes": "room 7C03(Male) 1C18 (female) - now closed (sep 2022)",
+    "Halal food": ""
   },
   {
     "Title": "Cabinet Office",
@@ -1131,7 +1096,8 @@ const RoomsList = [
     "Closest Masjids": "SW1P4HB,SW1P4HB2,SW1V4LP",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Department of Health and Social Care",
@@ -1152,7 +1118,8 @@ const RoomsList = [
     "Closest Masjids": "SW1P4HB,SW1P4HB2,SW1V4LP",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "HMRC",
@@ -1173,7 +1140,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "South London and Maudsley eating disorder outpatients",
@@ -1194,7 +1162,8 @@ const RoomsList = [
     "Closest Masjids": "SW1P4HB,SW1P4HB2,SW1V4LP",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Department for Education - London (Sanctuary Buildings)",
@@ -1215,7 +1184,8 @@ const RoomsList = [
     "Closest Masjids": "SW1P4HB,SW1P4HB2,SW1V4LP",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "HMRC",
@@ -1236,7 +1206,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "DSTL",
@@ -1257,7 +1228,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "DSTL",
@@ -1278,7 +1250,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "DEFRA",
@@ -1299,7 +1272,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Royal Courts of Justice",
@@ -1320,7 +1294,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": 1,
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Bennett House, MoJ Tribunals Service Stoke-on-Trent",
@@ -1341,7 +1316,8 @@ const RoomsList = [
     "Closest Masjids": "ST12JS",
     "Alert": 1,
     "Fill details": 1,
-    "Notes": "Currently limited to one in one out due to size"
+    "Notes": "Currently limited to one in one out due to size",
+    "Halal food": ""
   },
   {
     "Title": "Victoria Square House OPG",
@@ -1362,7 +1338,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": 1,
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Leeds MoJ 5WP",
@@ -1383,7 +1360,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": 1,
     "Fill details": 1,
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Wolverhampton: St Georges House Probation Contact Centre",
@@ -1404,7 +1382,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": 1,
     "Fill details": 1,
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Clive House, Ministry of Justice",
@@ -1425,7 +1404,8 @@ const RoomsList = [
     "Closest Masjids": "SW1P4HB,SW1P4HB2,SW1V4LP",
     "Alert": "",
     "Fill details": 1,
-    "Notes": "Go through barriers then turn left, down tiny stair case. Then keep going straight through few double door sets, pass working area, keep going straight through more doors. Then when you can't go further then turn right (pass toilet), and right again. \n\nReflection rooms also available at 102 PF lower ground (See 102PF listing)."
+    "Notes": "Go through barriers then turn left, down tiny stair case. Then keep going straight through few double door sets, pass working area, keep going straight through more doors. Then when you can't go further then turn right (pass toilet), and right again. \n\nReflection rooms also available at 102 PF lower ground (See 102PF listing).",
+    "Halal food": ""
   },
   {
     "Title": "Government office, Ministry of Justice",
@@ -1446,7 +1426,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": 1,
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Carlisle Magistrates Court",
@@ -1467,7 +1448,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": "Prayer room within Carlisle Magistrates Court, converting a solicitor's room into a prayer room/breastfeeding room if required."
+    "Notes": "Prayer room within Carlisle Magistrates Court, converting a solicitor's room into a prayer room/breastfeeding room if required.",
+    "Halal food": ""
   },
   {
     "Title": "Southern House (SH)",
@@ -1488,7 +1470,8 @@ const RoomsList = [
     "Closest Masjids": "CR02RF",
     "Alert": "",
     "Fill details": 1,
-    "Notes": "Dedicated Prayer and contemplation on 14th floor\nNote: There are access restrictions to second floor room - HMPPS only. Also the 14th floor is no longer for HMPPS - so it may no longer be available."
+    "Notes": "Dedicated Prayer and contemplation on 14th floor\nNote: There are access restrictions to second floor room - HMPPS only. Also the 14th floor is no longer for HMPPS - so it may no longer be available.",
+    "Halal food": ""
   },
   {
     "Title": "1 Ruskin Square (1RS)",
@@ -1509,7 +1492,8 @@ const RoomsList = [
     "Closest Masjids": "CR02RF",
     "Alert": "",
     "Fill details": "",
-    "Notes": "Room is on right side as you enter the canteen. Shared with HMRC staff. Dedicated prayer room and contemplation room."
+    "Notes": "Room is on right side as you enter the canteen. Shared with HMRC staff. Dedicated prayer room and contemplation room.",
+    "Halal food": ""
   },
   {
     "Title": "Tŷ William Morgan House HMRC Regional Hub",
@@ -1530,7 +1514,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": 1,
     "Fill details": 1,
-    "Notes": "Contemplation room on every floor"
+    "Notes": "Contemplation room on every floor",
+    "Halal food": ""
   },
   {
     "Title": "Cardiff Crown Court",
@@ -1551,7 +1536,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": 1,
     "Fill details": 1,
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Wellington House - NHS - Public Health England",
@@ -1572,7 +1558,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": "Enter lower ground level , turn right the multifaith will be located on first room on your lift"
+    "Notes": "Enter lower ground level , turn right the multifaith will be located on first room on your lift",
+    "Halal food": ""
   },
   {
     "Title": "Premier House - NHS",
@@ -1593,7 +1580,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": "To find the room: Take the lift by Reception or stairs to the 1st Floor, turn right and the room is the 2nd door on the left. Currently named ‘101 Store’ but will be replaced with ‘Multifaith room’ soon In sha Allah. The space behind the curtain is the Muslim prayer area and curtain can be drawn when praying."
+    "Notes": "To find the room: Take the lift by Reception or stairs to the 1st Floor, turn right and the room is the 2nd door on the left. Currently named ‘101 Store’ but will be replaced with ‘Multifaith room’ soon In sha Allah. The space behind the curtain is the Muslim prayer area and curtain can be drawn when praying.",
+    "Halal food": ""
   },
   {
     "Title": "Stratford Magistrates Court",
@@ -1614,7 +1602,8 @@ const RoomsList = [
     "Closest Masjids": "E151NA,E151JA",
     "Alert": "",
     "Fill details": "",
-    "Notes": "The welfare room has an initial 'waiting area' which men will generally use to pray. Through this area is a room with a sink where you can perform wudu, though the room is generally used to pray by women, so you should knock first and open the door quietly and slowly."
+    "Notes": "The welfare room has an initial 'waiting area' which men will generally use to pray. Through this area is a room with a sink where you can perform wudu, though the room is generally used to pray by women, so you should knock first and open the door quietly and slowly.",
+    "Halal food": ""
   },
   {
     "Title": "Victory House (VH)",
@@ -1635,7 +1624,8 @@ const RoomsList = [
     "Closest Masjids": "EC1N7RR",
     "Alert": "",
     "Fill details": 1,
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Milton Keynes Probation Office",
@@ -1656,7 +1646,8 @@ const RoomsList = [
     "Closest Masjids": "MK65HA",
     "Alert": "",
     "Fill details": "",
-    "Notes": "Code to enter faith room is - C2389X"
+    "Notes": "Code to enter faith room is - C2389X",
+    "Halal food": ""
   },
   {
     "Title": "Amazon office Principal Place",
@@ -1677,7 +1668,8 @@ const RoomsList = [
     "Closest Masjids": "E16QL",
     "Alert": 1,
     "Fill details": 1,
-    "Notes": "You will need an escort to take you up and down if you don't work there. Room is not far from lifts, just have to go through one corridor then next corridor opposite. Opposite mother and baby rooms."
+    "Notes": "You will need an escort to take you up and down if you don't work there. Room is not far from lifts, just have to go through one corridor then next corridor opposite. Opposite mother and baby rooms.",
+    "Halal food": ""
   },
   {
     "Title": "HM Land Registry Leicester",
@@ -1698,7 +1690,8 @@ const RoomsList = [
     "Closest Masjids": "LE27BJ,LE30JD",
     "Alert": 1,
     "Fill details": "",
-    "Notes": "This is a small room used by men and women. There is a screen to separate.\nLabelled 'Quite Room', it is mostly used as a Muslim prayer Room but it is intended to be used as a quite space for all staff of HM Land Registry and Health Education England who are the occupiers of the building."
+    "Notes": "This is a small room used by men and women. There is a screen to separate.\nLabelled 'Quite Room', it is mostly used as a Muslim prayer Room but it is intended to be used as a quite space for all staff of HM Land Registry and Health Education England who are the occupiers of the building.",
+    "Halal food": ""
   },
   {
     "Title": "NPS Churchill House (National Probation Service)",
@@ -1719,7 +1712,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": 1,
     "Fill details": 1,
-    "Notes": "Complaint made by member about lack of facilities in Probation centres"
+    "Notes": "Complaint made by member about lack of facilities in Probation centres",
+    "Halal food": ""
   },
   {
     "Title": "HMRC & Cabinet Office Glasgow",
@@ -1740,7 +1734,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": 1,
     "Fill details": 1,
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Darlington Economic Campus",
@@ -1761,7 +1756,8 @@ const RoomsList = [
     "Closest Masjids": "DL36LY",
     "Alert": "",
     "Fill details": 1,
-    "Notes": "We need brothers and sisters to come together to ensure it has what it needs for muslim prayers, i.e. prayer mats, segregation, etc. And importantly when the numbers are high enough Jummah prayers to be established."
+    "Notes": "We need brothers and sisters to come together to ensure it has what it needs for muslim prayers, i.e. prayer mats, segregation, etc. And importantly when the numbers are high enough Jummah prayers to be established.",
+    "Halal food": ""
   },
   {
     "Title": "Cabinet Office - 70 Whitehall",
@@ -1782,7 +1778,8 @@ const RoomsList = [
     "Closest Masjids": "SW1P4HB,SW1P4HB2,SW1V4LP",
     "Alert": 1,
     "Fill details": 1,
-    "Notes": "Also consider other prayer rooms on Whitehall (try searching)"
+    "Notes": "Also consider other prayer rooms on Whitehall (try searching)",
+    "Halal food": ""
   },
   {
     "Title": "Capital Building Crown Commercial Service / Home Office",
@@ -1792,18 +1789,19 @@ const RoomsList = [
     "Address 3": "",
     "Town/City": "Liverpool",
     "Postcode": "L3 9PP",
-    "Floor": "minus -1 and 2",
+    "Floor": "minus (-1) and 2",
     "Block": "",
     "Room": "",
     "Timing": "",
     "Gender": "",
-    "Wudhu": "",
+    "Wudhu": "Available in -1",
     "Size": "",
     "Jummah time": "",
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": 1,
-    "Notes": "Signed from lift lobby Level (minus 1) -1. Room 1) Small room that comes first after you walk from the Lifts. Room 2) Relatively Large room in Interview Area Canteen – Not segregated.\nRequires passcode to get in."
+    "Notes": "Signed from lift lobby Level (minus 1) -1. Room 1) Small room that comes first after you walk from the Lifts. Room 2) Relatively Large room in Interview Area Canteen – Not segregated.\nRequires passcode to get in. More details for -1 prayer room: go through the single door after exiting the lifts, take a right through the other single door (not down the long corridor), take another right and follow through the double doors to the waiting area for the interview rooms, walk straight through the doors of the waiting area towards the interview rooms (card scanning required to open the doors), walk forward towards the employee office room, the office room door will be on your right hand side and you can see a kitchen through the door whilst walking past. As soon as you enter the office room, the first door on your right is the prayer room.",
+    "Halal food": ""
   },
   {
     "Title": "HM Passport office, Warehouse K",
@@ -1824,7 +1822,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": 1,
     "Fill details": 1,
-    "Notes": "There is a local masjid 5 mins walk from the office"
+    "Notes": "There is a local masjid 5 mins walk from the office",
+    "Halal food": ""
   },
   {
     "Title": "Kings Court - DWP Head Office",
@@ -1845,7 +1844,8 @@ const RoomsList = [
     "Closest Masjids": "S37WT",
     "Alert": 1,
     "Fill details": 1,
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Birmingham Centre City - Digital Hub, Probation - JSO",
@@ -1866,7 +1866,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Homerton Hospital NHS",
@@ -1887,7 +1888,8 @@ const RoomsList = [
     "Closest Masjids": "E59QD",
     "Alert": 0,
     "Fill details": 1,
-    "Notes": "Enter either in main entrance and walk straight (will come on right) - or back entrance on Clifden road and walk straight (will come on left)"
+    "Notes": "Enter either in main entrance and walk straight (will come on right) - or back entrance on Clifden road and walk straight (will come on left)",
+    "Halal food": ""
   },
   {
     "Title": "Peterborough Magistrates Court MoJ Commuter hub",
@@ -1908,7 +1910,8 @@ const RoomsList = [
     "Closest Masjids": "PE12BN,PE12BY",
     "Alert": "",
     "Fill details": "",
-    "Notes": "This is not a Reflection room - but can be used if you're working there."
+    "Notes": "This is not a Reflection room - but can be used if you're working there.",
+    "Halal food": ""
   },
   {
     "Title": "Peterborough City care centre NHS",
@@ -1929,7 +1932,8 @@ const RoomsList = [
     "Closest Masjids": "PE12BN,PE12BY",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Welsh Government - Crown Buildings",
@@ -1950,7 +1954,8 @@ const RoomsList = [
     "Closest Masjids": "CF244BG,",
     "Alert": 1,
     "Fill details": 1,
-    "Notes": "Subject to changes due to renovation as of August 2022"
+    "Notes": "Subject to changes due to renovation as of August 2022",
+    "Halal food": ""
   },
   {
     "Title": "Birmingham Government Hub / Arena Central 3 / AC3 / HMCTS / DWP",
@@ -1971,7 +1976,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": 1,
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Weybridge Job centre DWP",
@@ -1992,7 +1998,8 @@ const RoomsList = [
     "Closest Masjids": "KT152PX",
     "Alert": 1,
     "Fill details": 0,
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Oval Surrey Country Cricket Club / Duchy suite",
@@ -2013,7 +2020,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": 0,
     "Fill details": 0,
-    "Notes": "Ask security at reception on ground floor"
+    "Notes": "Ask security at reception on ground floor",
+    "Halal food": ""
   },
   {
     "Title": "Baltic House DWP",
@@ -2034,7 +2042,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": 1,
     "Fill details": 1,
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Metro building",
@@ -2055,7 +2064,8 @@ const RoomsList = [
     "Closest Masjids": "M169LJ,M169JE",
     "Alert": 0,
     "Fill details": 1,
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Alexander Bain House (CICA, MoJ)",
@@ -2076,7 +2086,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": 1,
-    "Notes": "For any assistance finding the room, contact Corporate.Support@CICA.GOV.UK"
+    "Notes": "For any assistance finding the room, contact Corporate.Support@CICA.GOV.UK",
+    "Halal food": ""
   },
   {
     "Title": "Shrewsbury, Abbey Foregate - HMPPS Probation",
@@ -2097,7 +2108,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": 1,
     "Fill details": 1,
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Whitechapel house, Telford - HMPPS Probation",
@@ -2118,7 +2130,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "28 Kirby Street - Home Office",
@@ -2139,7 +2152,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": 0,
     "Fill details": 1,
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Guisborough Jobcentre - Nathan House",
@@ -2160,7 +2174,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Arnhem House HMCTS",
@@ -2181,7 +2196,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": 1,
     "Fill details": "",
-    "Notes": "Was Refurbishing in late January 2023"
+    "Notes": "Was Refurbishing in late January 2023",
+    "Halal food": ""
   },
   {
     "Title": "DWP Digital Corporate Hub",
@@ -2202,7 +2218,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "HMRC/LAA",
@@ -2223,7 +2240,8 @@ const RoomsList = [
     "Closest Masjids": "BS34UB",
     "Alert": 0,
     "Fill details": 1,
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Croydon Employment Tribunal",
@@ -2244,7 +2262,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": 1,
     "Fill details": 0,
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Manchester Soapworks building - Home Office",
@@ -2265,7 +2284,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": 0,
     "Fill details": 1,
-    "Notes": "prayer mats available"
+    "Notes": "prayer mats available",
+    "Halal food": ""
   },
   {
     "Title": "Jury Central Summoning Bureau HMCTS (Phoenix House)",
@@ -2286,7 +2306,8 @@ const RoomsList = [
     "Closest Masjids": "BD37ER",
     "Alert": 0,
     "Fill details": 0,
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Brent Probation Service Office",
@@ -2307,7 +2328,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": 1,
     "Fill details": 1,
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Mitre House Probation contact centre (See notes)",
@@ -2328,7 +2350,8 @@ const RoomsList = [
     "Closest Masjids": "SE14JL",
     "Alert": 0,
     "Fill details": 1,
-    "Notes": "IMPORTANT: Room 3D (formerly KSS RPD’s office) has been designated a temporary replacement prayer room due to having Radon in the basement. The room can be used for sensitive calls too. Book via Matrix. Signs available which they can put up to show it is occupied.   \n\nBaitul Aziz Masjid - 5 mins away"
+    "Notes": "IMPORTANT: Room 3D (formerly KSS RPD’s office) has been designated a temporary replacement prayer room due to having Radon in the basement. The room can be used for sensitive calls too. Book via Matrix. Signs available which they can put up to show it is occupied.   \n\nBaitul Aziz Masjid - 5 mins away",
+    "Halal food": ""
   },
   {
     "Title": "Old Bailey Central Criminal Court",
@@ -2349,7 +2372,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": 1,
     "Fill details": 0,
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "HMP Risley",
@@ -2370,7 +2394,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": "multifaith room including wudhuu khana for staff use as well as prisoner's needs (jumah prayers).\nquiet reflection room also available in the chaplaincy.\nchaplaincy manager must be informed before use."
+    "Notes": "multifaith room including wudhuu khana for staff use as well as prisoner's needs (jumah prayers).\nquiet reflection room also available in the chaplaincy.\nchaplaincy manager must be informed before use.",
+    "Halal food": ""
   },
   {
     "Title": "MHRA South Mimms",
@@ -2391,7 +2416,8 @@ const RoomsList = [
     "Closest Masjids": "EN63BP",
     "Alert": 1,
     "Fill details": 1,
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "The National Archives",
@@ -2412,7 +2438,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Hartshead Square (DWP)",
@@ -2433,7 +2460,8 @@ const RoomsList = [
     "Closest Masjids": "S25TR",
     "Alert": 1,
     "Fill details": 1,
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "York Monkgate Jobcentre (DWP)",
@@ -2454,7 +2482,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": 1,
     "Fill details": 1,
-    "Notes": "It contains storage but there is enough space for prayer."
+    "Notes": "It contains storage but there is enough space for prayer.",
+    "Halal food": ""
   },
   {
     "Title": "Benton Park View (DWP, HMRC)",
@@ -2475,7 +2504,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Cheylesmore House - Department for Education",
@@ -2496,7 +2526,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": "on the right after the security gates in a short corridor in front of the stairs"
+    "Notes": "on the right after the security gates in a short corridor in front of the stairs",
+    "Halal food": ""
   },
   {
     "Title": "Mile End Hospital",
@@ -2517,7 +2548,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": "Near restaurant. Get pin number from reception or staff.\nPhone:  020 3594 2070"
+    "Notes": "Near restaurant. Get pin number from reception or staff.\nPhone:  020 3594 2070",
+    "Halal food": ""
   },
   {
     "Title": "Newham University Hospital",
@@ -2538,7 +2570,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": "The Multi-Faith Prayer Room is situated on the first floor immediately above the West Entrance Zone 12. It is available for patients, staff and visitors for prayer and reflection. The room has ablution facilities. There are different religious services during the week.\n\nThe Surgical prayer room is situated on the third floor in Gateway Surgical Centre, first door on your right."
+    "Notes": "The Multi-Faith Prayer Room is situated on the first floor immediately above the West Entrance Zone 12. It is available for patients, staff and visitors for prayer and reflection. The room has ablution facilities. There are different religious services during the week.\n\nThe Surgical prayer room is situated on the third floor in Gateway Surgical Centre, first door on your right.",
+    "Halal food": ""
   },
   {
     "Title": "The Royal London Hospital",
@@ -2559,7 +2592,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": "Toilets on Ground floor"
+    "Notes": "Toilets on Ground floor",
+    "Halal food": ""
   },
   {
     "Title": "St Bartholomew's Hospital",
@@ -2580,7 +2614,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Whipps Cross University Hospital",
@@ -2601,7 +2636,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": "Take the stairs up to the first floor which are near Junction 5. At the top of the stairs go through the door on the left. Phone: 020 8535 6988"
+    "Notes": "Take the stairs up to the first floor which are near Junction 5. At the top of the stairs go through the door on the left. Phone: 020 8535 6988",
+    "Halal food": ""
   },
   {
     "Title": "Amadeus House (Home Office)",
@@ -2622,7 +2658,8 @@ const RoomsList = [
     "Closest Masjids": "TW59TN",
     "Alert": 1,
     "Fill details": "",
-    "Notes": "When you enter the building, take a left after security where you will find a door.  The multi faith room is directly in front once you enter this door.\n\nThere are prayer mats, hijabs and tasbih available.  The new room has a Qibla direction sign, chair, working sink and wudhu facilities.\n\nThe reading material including the Quran and translations can be found in the wellbeing room where the multifaith room was previously. (When you enter the building, take the left door after security, take the left door again and follow around to the left, it is marked up as a wellbeing room.)\n\nPlease kindly note and adhere to the signs put up for those using the multi faith room, placed by the accommodation team. \n\nChair available in the room"
+    "Notes": "When you enter the building, take a left after security where you will find a door.  The multi faith room is directly in front once you enter this door.\n\nThere are prayer mats, hijabs and tasbih available.  The new room has a Qibla direction sign, chair, working sink and wudhu facilities.\n\nThe reading material including the Quran and translations can be found in the wellbeing room where the multifaith room was previously. (When you enter the building, take the left door after security, take the left door again and follow around to the left, it is marked up as a wellbeing room.)\n\nPlease kindly note and adhere to the signs put up for those using the multi faith room, placed by the accommodation team. \n\nChair available in the room",
+    "Halal food": ""
   },
   {
     "Title": "Canon Bridge House Historic England / VisitBritain",
@@ -2643,7 +2680,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": "No prayer mats so please bring your own"
+    "Notes": "No prayer mats so please bring your own",
+    "Halal food": ""
   },
   {
     "Title": "India Buildings HMRC staff only",
@@ -2664,7 +2702,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": 0,
     "Fill details": 1,
-    "Notes": "Contact: rezwan.hussain@hmrc.gov.uk for more information."
+    "Notes": "Contact: rezwan.hussain@hmrc.gov.uk for more information.",
+    "Halal food": ""
   },
   {
     "Title": "Probation Office Centre City",
@@ -2685,7 +2724,8 @@ const RoomsList = [
     "Closest Masjids": "B24QA",
     "Alert": "",
     "Fill details": "",
-    "Notes": "Contemplation/Prayer Room is only available to staff, working or based at this office"
+    "Notes": "Contemplation/Prayer Room is only available to staff, working or based at this office",
+    "Halal food": ""
   },
   {
     "Title": "Solihull Chadwick house",
@@ -2706,7 +2746,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Home Office - Waterside House/Court",
@@ -2727,7 +2768,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": "Swipe ID to enter through secure door. Prayer room on left through corridor...We have 2 pray rooms on the Waterside estate, 1 in Waterside House and 1 in Waterside Court."
+    "Notes": "Swipe ID to enter through secure door. Prayer room on left through corridor...We have 2 pray rooms on the Waterside estate, 1 in Waterside House and 1 in Waterside Court.",
+    "Halal food": ""
   },
   {
     "Title": "Millennium House - Stockport BSC (DWP)",
@@ -2748,7 +2790,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": 1,
     "Fill details": 1,
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Vulcan House - Home Office",
@@ -2769,7 +2812,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Probation Service Office Sceptre House",
@@ -2790,7 +2834,8 @@ const RoomsList = [
     "Closest Masjids": "LU12TW,LU15LY,LU11HB,LU11HE,LU48JD",
     "Alert": 1,
     "Fill details": 0,
-    "Notes": "The Probation office is on the 1st floor, reception will open the door if buzzed. \nThe prayer room is one the second floor, no pass needed, door is open - The first door to the left is the prayer room (Poster indicates prayer room). There are four prayer mats and there's a divider in the middle for privacy and separation for men and women.\n\n(Reception on ground floor will be able to assist)"
+    "Notes": "The Probation office is on the 1st floor, reception will open the door if buzzed. \nThe prayer room is one the second floor, no pass needed, door is open - The first door to the left is the prayer room (Poster indicates prayer room). There are four prayer mats and there's a divider in the middle for privacy and separation for men and women.\n\n(Reception on ground floor will be able to assist)",
+    "Halal food": ""
   },
   {
     "Title": "Manchester Airport",
@@ -2811,7 +2856,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": "Quiet room is opposite OST office. Prayer rooms are for staff."
+    "Notes": "Quiet room is opposite OST office. Prayer rooms are for staff.",
+    "Halal food": ""
   },
   {
     "Title": "Sandford House, Home Office",
@@ -2832,7 +2878,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": 1,
     "Fill details": 1,
-    "Notes": "Security pass required"
+    "Notes": "Security pass required",
+    "Halal food": ""
   },
   {
     "Title": "HM Passport office HMPO Northgate",
@@ -2853,7 +2900,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": 1,
     "Fill details": 1,
-    "Notes": "No prayer facilities available"
+    "Notes": "No prayer facilities available",
+    "Halal food": ""
   },
   {
     "Title": "Quay House - HM Passport Office  Home Office",
@@ -2874,7 +2922,8 @@ const RoomsList = [
     "Closest Masjids": "PE12BN,PE12BY",
     "Alert": 0,
     "Fill details": 0,
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "Home Office Cardiff",
@@ -2895,7 +2944,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": 1,
     "Fill details": 1,
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
     "Title": "HMPO PETERBOROUGH",
@@ -2916,7 +2966,8 @@ const RoomsList = [
     "Closest Masjids": "PE12BN,PE12BY",
     "Alert": "",
     "Fill details": "",
-    "Notes": "Prayer mats, hats and Reading material available. Table and chairs too."
+    "Notes": "Prayer mats, hats and Reading material available. Table and chairs too.",
+    "Halal food": ""
   },
   {
     "Title": "Coventry Cofa Court - DWP",
@@ -2937,7 +2988,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": "Contact: JCP Coventry Contact Centre BSU COVENTRY.CONTACTCENTREBSU@DWP.GOV.UK"
+    "Notes": "Contact: JCP Coventry Contact Centre BSU COVENTRY.CONTACTCENTREBSU@DWP.GOV.UK",
+    "Halal food": ""
   },
   {
     "Title": "Trinity House Bridge HMRC",
@@ -2958,7 +3010,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": "Prayer Mats Available."
+    "Notes": "Prayer Mats Available.",
+    "Halal food": ""
   },
   {
     "Title": "CTSC Birmingham",
@@ -2979,7 +3032,8 @@ const RoomsList = [
     "Closest Masjids": "B120XS",
     "Alert": 0,
     "Fill details": 1,
-    "Notes": "There are 2 prayer rooms on each side of the kitchen. Small room is for the sisters"
+    "Notes": "There are 2 prayer rooms on each side of the kitchen. Small room is for the sisters",
+    "Halal food": ""
   },
   {
     "Title": "Custom House Heathrow",
@@ -3000,7 +3054,8 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": 1,
     "Fill details": 1,
-    "Notes": "Require staff access"
+    "Notes": "Require staff access",
+    "Halal food": ""
   },
   {
     "Title": "Ilford probation office (Oakland court)",
@@ -3021,7 +3076,8 @@ const RoomsList = [
     "Closest Masjids": "IG11ED,IG13EN",
     "Alert": 1,
     "Fill details": "",
-    "Notes": "Masjids: Ilford Islamic Centre: 9minutes away, Masjid al-Falah: 29 minutes away"
+    "Notes": "Masjids: Ilford Islamic Centre: 9minutes away, Masjid al-Falah: 29 minutes away",
+    "Halal food": ""
   },
   {
     "Title": "Leicester Magistrates' Court - HMCTS",
@@ -3042,90 +3098,29 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": ""
+    "Notes": "",
+    "Halal food": ""
   },
   {
-    "Title": "Nottingham Magistrates Court - HMCTS",
+    "Title": "Not",
     "Region": "",
-    "Address 1": "Carrington St",
+    "Address 1": "",
     "Address 2": "",
     "Address 3": "",
-    "Town/City": "Nottingham",
-    "Postcode": "NG22EJ,NG31DG",
+    "Town/City": "",
+    "Postcode": "",
     "Floor": "",
     "Block": "",
-    "Room": "No prayer room available",
+    "Room": "",
     "Timing": "",
     "Gender": "",
-    "Wudhu": "No Wudhu area",
+    "Wudhu": "",
     "Size": "",
     "Jummah time": "",
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": "Masijds (Mosques) about 22mins walk away"
-  },
-  {
-    "Title": "Centenary Court - HMRC",
-    "Region": "",
-    "Address 1": "1 St Blaise Way",
-    "Address 2": "",
-    "Address 3": "",
-    "Town/City": "Bradford",
-    "Postcode": "BD1 4XY",
-    "Floor": "Ground",
-    "Block": "Station end",
-    "Room": "",
-    "Timing": "",
-    "Gender": "Separate rooms",
-    "Wudhu": "On same floor opposite Reflection room",
-    "Size": "",
-    "Jummah time": "",
-    "Closest Masjids": "",
-    "Alert": 0,
-    "Fill details": 1,
-    "Notes": ""
-  },
-  {
-    "Title": "Hendon Data Centre (Home Office)",
-    "Region": "",
-    "Address 1": "Inside police academy.",
-    "Address 2": "Peel Centre",
-    "Address 3": "Aerodome Road",
-    "Town/City": "London",
-    "Postcode": "NW9 5JE",
-    "Floor": 2,
-    "Block": "HDC",
-    "Room": "Prayer room",
-    "Timing": "",
-    "Gender": "Male only",
-    "Wudhu": "Not available",
-    "Size": "5-6 people",
-    "Jummah time": "",
-    "Closest Masjids": "",
-    "Alert": 1,
-    "Fill details": 0,
-    "Notes": "Prayer mats available"
-  },
-  {
-    "Title": "Leeds Magistrates Court - HMCTS",
-    "Region": "",
-    "Address 1": "1 Westgate",
-    "Address 2": "",
-    "Address 3": "",
-    "Town/City": "Leeds",
-    "Postcode": "LS1 3JP",
-    "Floor": 6,
-    "Block": "",
-    "Room": "Rest / prayer room",
-    "Timing": "",
-    "Gender": "mixed",
-    "Wudhu": "Yes",
-    "Size": "5-6 people",
-    "Jummah time": "Being worked on",
-    "Closest Masjids": "LS13EX",
-    "Alert": 0,
-    "Fill details": 1,
-    "Notes": "People walk to Leeds hospital to pray Jummah at the moment"
+    "Notes": "",
+    "Halal food": ""
   }
 ]
