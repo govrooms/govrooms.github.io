@@ -19,7 +19,8 @@ const RoomsList = [
     "Alert": 0,
     "Fill details": "",
     "Notes": "It also has seating areas within the room. There are separate wudhu rooms for males and females, just outside the entrance to the prayer room, with wudhu pods. There is clear signage to the prayer rooms from the hallway where the lifts are situated.",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Southampton Combined court",
@@ -41,7 +42,8 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Embankment House, OPG, MoJ",
@@ -63,7 +65,8 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": 1,
     "Notes": "Used to be on floor 2 (2.1) - check if there's another one there?",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": "<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Embankment%20House,%20Nottingham/plan.png?csf=1&web=1&e=usI7ZN\">Plan</a>"
   },
   {
     "Title": "Probation Office",
@@ -85,7 +88,8 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": 1,
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Manchester Civil Justice centre (HMCTS)",
@@ -107,7 +111,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": 1,
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Perry Barr",
@@ -129,7 +134,8 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Lower Essex Street - Closed",
@@ -151,7 +157,8 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": "",
     "Notes": "THis office is now closed, we have moved over to 1st and 19th Floor, centre city tower, Birmingham, both floors have a prayer/contermplation rooms.",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Selly Oak Probation Office",
@@ -173,7 +180,8 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": "",
     "Notes": "Contemplation/Prayer Room is only available to staff, working or based at this office",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Centenary house",
@@ -195,7 +203,8 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Loughborough Crown House (HMCTS)",
@@ -210,14 +219,15 @@ const RoomsList = [
     "Room": "Yes",
     "Timing": "Office hours",
     "Gender": "Unisex",
-    "Wudhu": "",
-    "Size": "",
+    "Wudhu": "Yes available",
+    "Size": 6,
     "Jummah time": "",
     "Closest Masjids": "LE111SG,LE111SD",
     "Alert": 1,
     "Fill details": 1,
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": "Source 1: <a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Loghborough%20Crown%20House/source%201%20-%20room.jpg?csf=1&web=1&e=zKGc3x\">Room</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Loghborough%20Crown%20House/source%201%20-wash%20room.jpg?csf=1&web=1&e=QACqq0\">Washroom</a> | \nSource 2: <a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Loghborough%20Crown%20House/room.png?csf=1&web=1&e=MgcVkS\">Room</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Loghborough%20Crown%20House/wash%20room.png?csf=1&web=1&e=tBtX0Z\">Washroom</a>"
   },
   {
     "Title": "10SC / near Canary Wharf / 10 South Colonade",
@@ -234,12 +244,13 @@ const RoomsList = [
     "Gender": "1st floor - Unisex with curtain separater",
     "Wudhu": "1st floor room - Wudhu area available in 1st floor prayer room for separate genders",
     "Size": "6 sisters on sisters side, some 20 brothers approx",
-    "Jummah time": "1.30pm summer, 12.45pm winter. On 1st floor  - always double check office staff. Contact: khaled.uddin@ukhsa.gov.uk",
+    "Jummah time": "1.30pm summer, 12.30pm winter. On 1st floor  - always double check office staff. Contact: khaled.uddin@ukhsa.gov.uk",
     "Closest Masjids": "E145RB",
     "Alert": "",
     "Fill details": 1,
     "Notes": "",
-    "Halal food": "Available in canteen on 2nd floor"
+    "Halal food": "Available in canteen on 2nd floor",
+    "pictures_html": "<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/10%20South%20Colonade%201st%20floor%20and%20jummah%20place/entrances.jpg?csf=1&web=1&e=yPAU9b\">Entrances</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/10%20South%20Colonade%201st%20floor%20and%20jummah%20place/female%20prayer%20room%201.jpg?csf=1&web=1&e=gzqhns\">Room (Female side)</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/10%20South%20Colonade%201st%20floor%20and%20jummah%20place/plan.jpg?csf=1&web=1&e=IaO75T\">Plan</a> | \n<a href=\"https://justiceuk.sharepoint.com/:u:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/10%20South%20Colonade%201st%20floor%20and%20jummah%20place/internal%20jummah%20time%20and%20contact.HEIC?csf=1&web=1&e=UYuam3\">Internal Jummah time/contact</a> | \n<a href=\"https://justiceuk.sharepoint.com/:u:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/10%20South%20Colonade%201st%20floor%20and%20jummah%20place/jummah%20barclays%20building/external%20jummah%20timetable.HEIC?csf=1&web=1&e=eF82Nb\">Outside Jummah (Barclays Building) timing</a> | \n<a href=\"https://justiceuk.sharepoint.com/:u:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/10%20South%20Colonade%201st%20floor%20and%20jummah%20place/jummah%20barclays%20building/external%20jummah%20entrance.HEIC?csf=1&web=1&e=wBsuEv\">BB entrance</a>"
   },
   {
     "Title": "3 Bailey Regional Centre",
@@ -261,7 +272,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "2 Marsham Street (2MS)",
@@ -283,7 +295,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "The room used by sisters has a curtain to offer some privacy at the wudhu sink since it is visible from the doorway. I think the wall between the two is removeable?   In London 2MS, on Friday's there is a space near Edward Alsop Court (Across the street from 2MS) to pray Friday Jummah. I can't confirm if they accommodate for sisters, but there is space for men.",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "HM Revenue and Customs, Stratford Regional Centre",
@@ -305,7 +318,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "It's located by the canteen but there is direct access through the lift lobby.  It's a non-segregated long room but does have (5ft high) room dividers and minimally furnished with sofas, cupboards, plants, chairs and tables.  There are dedicated wudhu facilities for brothers and sisters, next door to the prayer room.  There are also shower facilities on the Mezzanine floor (between 1st and 2nd floors).",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Passport Office",
@@ -327,7 +341,8 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Government Digital Service",
@@ -349,7 +364,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Home Office",
@@ -371,7 +387,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Home Office",
@@ -393,7 +410,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "BEIS",
@@ -415,7 +433,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "ONS / IPO",
@@ -437,7 +456,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "The Axis Building, Driver Vehicle Standards Agency",
@@ -459,7 +479,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Highways England",
@@ -481,7 +502,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": 1,
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Home Office",
@@ -503,7 +525,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Ofsted / DfE / Highways England / ACAS / ESFA",
@@ -525,7 +548,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "DFID",
@@ -547,7 +571,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Government Hub",
@@ -569,7 +594,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Defra",
@@ -591,7 +617,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "DEFRA/Home Office/MHCLG",
@@ -613,7 +640,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Gambling Commission",
@@ -635,7 +663,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Foreign and Commonwealth Office",
@@ -657,7 +686,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Ministry of Defence",
@@ -679,7 +709,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Competion and Markets Authority",
@@ -701,7 +732,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "GCHQ",
@@ -723,7 +755,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "ACAS/APHA/BEIS/Cabinet Office/DEFRA/DIT/GLAA/GPA/MHCLG/Natural England/RPA/The Insolvency Service",
@@ -745,7 +778,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "CCS",
@@ -767,7 +801,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Public Health England",
@@ -789,7 +824,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Department for Transport",
@@ -811,7 +847,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "HM Land Registry (Fylde)",
@@ -833,7 +870,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Department for International Development",
@@ -855,7 +893,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Department for International Development",
@@ -877,7 +916,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Department for International Trade",
@@ -899,7 +939,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Department for Work and Pensions",
@@ -921,7 +962,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "Used to be on third floor on front side of building right opposite the Canteen entrance",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "HMRC/CSHR",
@@ -943,7 +985,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "ONS/UKSA",
@@ -965,7 +1008,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "NCA",
@@ -987,7 +1031,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "102 Petty France (102PF)",
@@ -1009,7 +1054,8 @@ const RoomsList = [
     "Alert": 0,
     "Fill details": 0,
     "Notes": "Ministry of Justice/Government Legal Department/Crown Prosecution Service/Her Majesty's Court and Tribunal Service\n\nGo down stairs towards the left after entering through security gates. \n\nBrothers: take left, go through double doors, Then door on right. (see room on left and wudhu on right)\n\nSisters: Take right from stairs then 1st left corridor. Room is on right. Use Wudhu area next to brothers one.",
-    "Halal food": ""
+    "Halal food": "Try Strutton ground 5 minute walk, no reliable halal meat in building",
+    "pictures_html": "<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/102PF%20male/1.jpg?csf=1&web=1&e=6gPY30\">Male prayer room</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/102PF%20male/2.JPG?csf=1&web=1&e=AVFEBx\">Male ablution 1</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/102PF%20male/3.JPG?csf=1&web=1&e=gyelcX\">2</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/102PF%20male/4.JPG?csf=1&web=1&e=Yjfrw6\">3</a><br><a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/102PF%20female/1.jpg?csf=1&web=1&e=DbEYEM\">Female prayer room 1</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/102PF%20female/2.jpg?csf=1&web=1&e=II1GFt\">2</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/102PF%20female/3.jpg?csf=1&web=1&e=LAvdbW\">3</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/102PF%20female/4.jpg?csf=1&web=1&e=zzljSq\">4</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/102PF%20female/5.JPG?csf=1&web=1&e=RhbtUR\">Female ablution 1</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/102PF%20female/6.JPG?csf=1&web=1&e=dCiVGj\">2</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/102PF%20female/7.JPG?csf=1&web=1&e=EKL81y\">3</a>"
   },
   {
     "Title": "HMT / DCMS / Cabinet Office / HMRC / NIO",
@@ -1031,7 +1077,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Department for Work and Pensions",
@@ -1053,7 +1100,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "DHSC",
@@ -1075,7 +1123,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "room 7C03(Male) 1C18 (female) - now closed (sep 2022)",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Cabinet Office",
@@ -1097,7 +1146,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Department of Health and Social Care",
@@ -1119,7 +1169,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "HMRC",
@@ -1141,7 +1192,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "South London and Maudsley eating disorder outpatients",
@@ -1163,7 +1215,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Department for Education - London (Sanctuary Buildings)",
@@ -1185,7 +1238,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "HMRC",
@@ -1207,7 +1261,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "DSTL",
@@ -1229,7 +1284,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "DSTL",
@@ -1251,7 +1307,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "DEFRA",
@@ -1273,7 +1330,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Royal Courts of Justice",
@@ -1295,7 +1353,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": 1,
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Bennett House, MoJ Tribunals Service Stoke-on-Trent",
@@ -1317,7 +1376,8 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": 1,
     "Notes": "Currently limited to one in one out due to size",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": "<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Bennett%20House%20-%20stoke/room.png?csf=1&web=1&e=PnfQED\">Room</a> |\n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Bennett%20House%20-%20stoke/wash%20room.png?csf=1&web=1&e=MXrbtw\">Washroom 1</a>  | <a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Bennett%20House%20-%20stoke/wudhu.jpeg?csf=1&web=1&e=h3ZBrP\">2</a>"
   },
   {
     "Title": "Victoria Square House OPG",
@@ -1339,7 +1399,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": 1,
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Leeds MoJ 5WP",
@@ -1361,7 +1422,8 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": 1,
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Wolverhampton: St Georges House Probation Contact Centre",
@@ -1383,7 +1445,8 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": 1,
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Clive House, Ministry of Justice",
@@ -1405,7 +1468,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": 1,
     "Notes": "Go through barriers then turn left, down tiny stair case. Then keep going straight through few double door sets, pass working area, keep going straight through more doors. Then when you can't go further then turn right (pass toilet), and right again. \n\nReflection rooms also available at 102 PF lower ground (See 102PF listing).",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Government office, Ministry of Justice",
@@ -1427,7 +1491,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": 1,
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Carlisle Magistrates Court",
@@ -1449,7 +1514,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "Prayer room within Carlisle Magistrates Court, converting a solicitor's room into a prayer room/breastfeeding room if required.",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Southern House (SH)",
@@ -1471,29 +1537,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": 1,
     "Notes": "Dedicated Prayer and contemplation on 14th floor\nNote: There are access restrictions to second floor room - HMPPS only. Also the 14th floor is no longer for HMPPS - so it may no longer be available.",
-    "Halal food": ""
-  },
-  {
-    "Title": "1 Ruskin Square (1RS)",
-    "Region": "",
-    "Address 1": "1 Ruskin Square",
-    "Address 2": "",
-    "Address 3": "",
-    "Town/City": "Croydon",
-    "Postcode": "CR0 2LX",
-    "Floor": 8,
-    "Block": "",
-    "Room": 8.02,
-    "Timing": "",
-    "Gender": "",
-    "Wudhu": "",
-    "Size": "",
-    "Jummah time": "",
-    "Closest Masjids": "CR02RF",
-    "Alert": "",
-    "Fill details": "",
-    "Notes": "Room is on right side as you enter the canteen. Shared with HMRC staff. Dedicated prayer room and contemplation room.",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Tŷ William Morgan House HMRC Regional Hub",
@@ -1515,7 +1560,8 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": 1,
     "Notes": "Contemplation room on every floor",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Cardiff Crown Court",
@@ -1537,7 +1583,8 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": 1,
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Wellington House - NHS - Public Health England",
@@ -1559,7 +1606,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "Enter lower ground level , turn right the multifaith will be located on first room on your lift",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Premier House - NHS",
@@ -1581,7 +1629,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "To find the room: Take the lift by Reception or stairs to the 1st Floor, turn right and the room is the 2nd door on the left. Currently named ‘101 Store’ but will be replaced with ‘Multifaith room’ soon In sha Allah. The space behind the curtain is the Muslim prayer area and curtain can be drawn when praying.",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Stratford Magistrates Court",
@@ -1603,7 +1652,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "The welfare room has an initial 'waiting area' which men will generally use to pray. Through this area is a room with a sink where you can perform wudu, though the room is generally used to pray by women, so you should knock first and open the door quietly and slowly.",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Victory House (VH)",
@@ -1625,7 +1675,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": 1,
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Milton Keynes Probation Office",
@@ -1647,7 +1698,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "Code to enter faith room is - C2389X",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Amazon office Principal Place",
@@ -1669,7 +1721,8 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": 1,
     "Notes": "You will need an escort to take you up and down if you don't work there. Room is not far from lifts, just have to go through one corridor then next corridor opposite. Opposite mother and baby rooms.",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "HM Land Registry Leicester",
@@ -1691,7 +1744,8 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": "",
     "Notes": "This is a small room used by men and women. There is a screen to separate.\nLabelled 'Quite Room', it is mostly used as a Muslim prayer Room but it is intended to be used as a quite space for all staff of HM Land Registry and Health Education England who are the occupiers of the building.",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "NPS Churchill House (National Probation Service)",
@@ -1713,7 +1767,8 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": 1,
     "Notes": "Complaint made by member about lack of facilities in Probation centres",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "HMRC & Cabinet Office Glasgow",
@@ -1735,7 +1790,8 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": 1,
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Darlington Economic Campus",
@@ -1757,7 +1813,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": 1,
     "Notes": "We need brothers and sisters to come together to ensure it has what it needs for muslim prayers, i.e. prayer mats, segregation, etc. And importantly when the numbers are high enough Jummah prayers to be established.",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Cabinet Office - 70 Whitehall",
@@ -1779,7 +1836,8 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": 1,
     "Notes": "Also consider other prayer rooms on Whitehall (try searching)",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Capital Building Crown Commercial Service / Home Office",
@@ -1791,9 +1849,9 @@ const RoomsList = [
     "Postcode": "L3 9PP",
     "Floor": "minus (-1) and 2",
     "Block": "",
-    "Room": "",
+    "Room": "Level -1, near lifts, Level 2 Interview area",
     "Timing": "",
-    "Gender": "",
+    "Gender": "Mixed",
     "Wudhu": "Available in -1",
     "Size": "",
     "Jummah time": "",
@@ -1801,7 +1859,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": 1,
     "Notes": "Signed from lift lobby Level (minus 1) -1. Room 1) Small room that comes first after you walk from the Lifts. Room 2) Relatively Large room in Interview Area Canteen – Not segregated.\nRequires passcode to get in. More details for -1 prayer room: go through the single door after exiting the lifts, take a right through the other single door (not down the long corridor), take another right and follow through the double doors to the waiting area for the interview rooms, walk straight through the doors of the waiting area towards the interview rooms (card scanning required to open the doors), walk forward towards the employee office room, the office room door will be on your right hand side and you can see a kitchen through the door whilst walking past. As soon as you enter the office room, the first door on your right is the prayer room.",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": "<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Capital%20building%20Liverpool/room%201.jpg?csf=1&web=1&e=7f3DLz\">Room 1</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Capital%20building%20Liverpool/Room%202.jpg?csf=1&web=1&e=jzdliw\">Room 2</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Capital%20building%20Liverpool/Room%202%20Wudhu.jpg?csf=1&web=1&e=xCfcmo\">Room 2 ablution</a>"
   },
   {
     "Title": "HM Passport office, Warehouse K",
@@ -1823,7 +1882,8 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": 1,
     "Notes": "There is a local masjid 5 mins walk from the office",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Kings Court - DWP Head Office",
@@ -1845,7 +1905,8 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": 1,
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Birmingham Centre City - Digital Hub, Probation - JSO",
@@ -1867,7 +1928,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Homerton Hospital NHS",
@@ -1889,7 +1951,8 @@ const RoomsList = [
     "Alert": 0,
     "Fill details": 1,
     "Notes": "Enter either in main entrance and walk straight (will come on right) - or back entrance on Clifden road and walk straight (will come on left)",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": "<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/homerton%20hospital/room.JPG?csf=1&web=1&e=3m3j98\">Room</a> |\n<a href=\"https://justiceuk.sharepoint.com/:v:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/homerton%20hospital/wash%20room.MOV?csf=1&web=1&e=p8VYqN\">Washroom (video)</a> |\n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/homerton%20hospital/entrance.JPG?csf=1&web=1&e=Ze001z\">Entrance</a>"
   },
   {
     "Title": "Peterborough Magistrates Court MoJ Commuter hub",
@@ -1911,7 +1974,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "This is not a Reflection room - but can be used if you're working there.",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": "<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Peterborough%20magistrates%20court/interview%20room.jpeg?csf=1&web=1&e=kZMP2j\">Interview room</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Peterborough%20magistrates%20court/interview%20room%20entrance.jpeg?csf=1&web=1&e=lnUliN\">2</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Peterborough%20magistrates%20court/interview%20room%20entrance%202.jpeg?csf=1&web=1&e=7qkY4F\">3</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Peterborough%20magistrates%20court/washroom%201.jpeg?csf=1&web=1&e=m6gpIM\">Washroom</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Peterborough%20magistrates%20court/hub%201%20room.JPG?csf=1&web=1&e=Kh7ZZD\">Commuter hub (secure area)</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Peterborough%20magistrates%20court/hub%20office%20entrance.JPG?csf=1&web=1&e=4KTDyr\">2</a>"
   },
   {
     "Title": "Peterborough City care centre NHS",
@@ -1933,7 +1997,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": "<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Peterborough%20city%20care%20centre%20thorpe%20road/room.JPG?csf=1&web=1&e=7pMGJD\">Room</a> | <a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Peterborough%20city%20care%20centre%20thorpe%20road/washroom.JPG?csf=1&web=1&e=x9eErC\">Washroom</a>"
   },
   {
     "Title": "Welsh Government - Crown Buildings",
@@ -1955,7 +2020,8 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": 1,
     "Notes": "Subject to changes due to renovation as of August 2022",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Birmingham Government Hub / Arena Central 3 / AC3 / HMCTS / DWP",
@@ -1977,7 +2043,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": 1,
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Weybridge Job centre DWP",
@@ -1999,7 +2066,8 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": 0,
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Oval Surrey Country Cricket Club / Duchy suite",
@@ -2021,7 +2089,8 @@ const RoomsList = [
     "Alert": 0,
     "Fill details": 0,
     "Notes": "Ask security at reception on ground floor",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Baltic House DWP",
@@ -2043,7 +2112,8 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": 1,
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Metro building",
@@ -2059,13 +2129,14 @@ const RoomsList = [
     "Timing": "Monday - Friday 8AM - 6PM",
     "Gender": "",
     "Wudhu": "Partition between wudhu pod area and prayer room",
-    "Size": "",
+    "Size": 6,
     "Jummah time": "",
     "Closest Masjids": "M169LJ,M169JE",
     "Alert": 0,
     "Fill details": 1,
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": "<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Metro%20House%20Salford%20CTSC/room.png?csf=1&web=1&e=vtwvjq\">Room</a> | <a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Metro%20House%20Salford%20CTSC/washroom.png?csf=1&web=1&e=CM2UJP\">Washroom</a>"
   },
   {
     "Title": "Alexander Bain House (CICA, MoJ)",
@@ -2087,7 +2158,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": 1,
     "Notes": "For any assistance finding the room, contact Corporate.Support@CICA.GOV.UK",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Shrewsbury, Abbey Foregate - HMPPS Probation",
@@ -2109,7 +2181,8 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": 1,
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Whitechapel house, Telford - HMPPS Probation",
@@ -2131,7 +2204,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "28 Kirby Street - Home Office",
@@ -2153,7 +2227,8 @@ const RoomsList = [
     "Alert": 0,
     "Fill details": 1,
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Guisborough Jobcentre - Nathan House",
@@ -2175,7 +2250,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Arnhem House HMCTS",
@@ -2197,7 +2273,8 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": "",
     "Notes": "Was Refurbishing in late January 2023",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "DWP Digital Corporate Hub",
@@ -2219,7 +2296,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "HMRC/LAA",
@@ -2241,7 +2319,8 @@ const RoomsList = [
     "Alert": 0,
     "Fill details": 1,
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Croydon Employment Tribunal",
@@ -2263,7 +2342,8 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": 0,
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Manchester Soapworks building - Home Office",
@@ -2285,7 +2365,8 @@ const RoomsList = [
     "Alert": 0,
     "Fill details": 1,
     "Notes": "prayer mats available",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Jury Central Summoning Bureau HMCTS (Phoenix House)",
@@ -2307,7 +2388,8 @@ const RoomsList = [
     "Alert": 0,
     "Fill details": 0,
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Brent Probation Service Office",
@@ -2329,7 +2411,8 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": 1,
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Mitre House Probation contact centre (See notes)",
@@ -2351,7 +2434,8 @@ const RoomsList = [
     "Alert": 0,
     "Fill details": 1,
     "Notes": "IMPORTANT: Room 3D (formerly KSS RPD’s office) has been designated a temporary replacement prayer room due to having Radon in the basement. The room can be used for sensitive calls too. Book via Matrix. Signs available which they can put up to show it is occupied.   \n\nBaitul Aziz Masjid - 5 mins away",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Old Bailey Central Criminal Court",
@@ -2373,7 +2457,8 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": 0,
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "HMP Risley",
@@ -2395,7 +2480,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "multifaith room including wudhuu khana for staff use as well as prisoner's needs (jumah prayers).\nquiet reflection room also available in the chaplaincy.\nchaplaincy manager must be informed before use.",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "MHRA South Mimms",
@@ -2417,7 +2503,8 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": 1,
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "The National Archives",
@@ -2439,7 +2526,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Hartshead Square (DWP)",
@@ -2461,7 +2549,8 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": 1,
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "York Monkgate Jobcentre (DWP)",
@@ -2483,7 +2572,8 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": 1,
     "Notes": "It contains storage but there is enough space for prayer.",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Benton Park View (DWP, HMRC)",
@@ -2505,7 +2595,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Cheylesmore House - Department for Education",
@@ -2527,7 +2618,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "on the right after the security gates in a short corridor in front of the stairs",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Mile End Hospital",
@@ -2549,7 +2641,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "Near restaurant. Get pin number from reception or staff.\nPhone:  020 3594 2070",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Newham University Hospital",
@@ -2571,7 +2664,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "The Multi-Faith Prayer Room is situated on the first floor immediately above the West Entrance Zone 12. It is available for patients, staff and visitors for prayer and reflection. The room has ablution facilities. There are different religious services during the week.\n\nThe Surgical prayer room is situated on the third floor in Gateway Surgical Centre, first door on your right.",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "The Royal London Hospital",
@@ -2593,7 +2687,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "Toilets on Ground floor",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "St Bartholomew's Hospital",
@@ -2615,7 +2710,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Whipps Cross University Hospital",
@@ -2637,7 +2733,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "Take the stairs up to the first floor which are near Junction 5. At the top of the stairs go through the door on the left. Phone: 020 8535 6988",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Amadeus House (Home Office)",
@@ -2659,7 +2756,8 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": "",
     "Notes": "When you enter the building, take a left after security where you will find a door.  The multi faith room is directly in front once you enter this door.\n\nThere are prayer mats, hijabs and tasbih available.  The new room has a Qibla direction sign, chair, working sink and wudhu facilities.\n\nThe reading material including the Quran and translations can be found in the wellbeing room where the multifaith room was previously. (When you enter the building, take the left door after security, take the left door again and follow around to the left, it is marked up as a wellbeing room.)\n\nPlease kindly note and adhere to the signs put up for those using the multi faith room, placed by the accommodation team. \n\nChair available in the room",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Canon Bridge House Historic England / VisitBritain",
@@ -2681,7 +2779,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "No prayer mats so please bring your own",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "India Buildings HMRC staff only",
@@ -2703,7 +2802,8 @@ const RoomsList = [
     "Alert": 0,
     "Fill details": 1,
     "Notes": "Contact: rezwan.hussain@hmrc.gov.uk for more information.",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Probation Office Centre City",
@@ -2725,7 +2825,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "Contemplation/Prayer Room is only available to staff, working or based at this office",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Solihull Chadwick house",
@@ -2747,7 +2848,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Home Office - Waterside House/Court",
@@ -2769,7 +2871,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "Swipe ID to enter through secure door. Prayer room on left through corridor...We have 2 pray rooms on the Waterside estate, 1 in Waterside House and 1 in Waterside Court.",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Millennium House - Stockport BSC (DWP)",
@@ -2791,7 +2894,8 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": 1,
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Vulcan House - Home Office",
@@ -2805,15 +2909,16 @@ const RoomsList = [
     "Block": "Steel and Iron",
     "Room": "Multi-faith room (Signposted)",
     "Timing": "",
-    "Gender": "Male and Female facilities available",
-    "Wudhu": "",
-    "Size": "",
+    "Gender": "Male and Female rooms available opposite each other",
+    "Wudhu": "Yes available for both rooms",
+    "Size": "3-4 people",
     "Jummah time": "",
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": "Iron: <a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Vulcan%20house%20sheffield/iron%20inside%20male%20room.jpg?csf=1&web=1&e=948RYJ\">Male room</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Vulcan%20house%20sheffield/iron%20-%20male%20entrance.jpg?csf=1&web=1&e=R18VUP\">Entrance</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Vulcan%20house%20sheffield/iron%20male%20wudhu.jpg?csf=1&web=1&e=xrB8Z4\">Washroom</a> |<br>\nSteel: <a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Vulcan%20house%20sheffield/steel%20inside%20male%20room.jpg?csf=1&web=1&e=0Z74Jx\">Male room</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Vulcan%20house%20sheffield/steel%20-%20room%20entrance%201.jpg?csf=1&web=1&e=0KWy8v\">Entrance 1</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Vulcan%20house%20sheffield/steel%20-%20room%20entrance%202.jpg?csf=1&web=1&e=rMyXYk\">2</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Vulcan%20house%20sheffield/steel%20-%20male%20wudhu.jpg?csf=1&web=1&e=F7BqSc\">Washroom</a>"
   },
   {
     "Title": "Probation Service Office Sceptre House",
@@ -2835,7 +2940,8 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": 0,
     "Notes": "The Probation office is on the 1st floor, reception will open the door if buzzed. \nThe prayer room is one the second floor, no pass needed, door is open - The first door to the left is the prayer room (Poster indicates prayer room). There are four prayer mats and there's a divider in the middle for privacy and separation for men and women.\n\n(Reception on ground floor will be able to assist)",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Manchester Airport",
@@ -2857,7 +2963,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "Quiet room is opposite OST office. Prayer rooms are for staff.",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Sandford House, Home Office",
@@ -2879,7 +2986,8 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": 1,
     "Notes": "Security pass required",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "HM Passport office HMPO Northgate",
@@ -2901,7 +3009,8 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": 1,
     "Notes": "No prayer facilities available",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Quay House - HM Passport Office  Home Office",
@@ -2923,7 +3032,8 @@ const RoomsList = [
     "Alert": 0,
     "Fill details": 0,
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Home Office Cardiff",
@@ -2945,7 +3055,8 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": 1,
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "HMPO PETERBOROUGH",
@@ -2967,7 +3078,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "Prayer mats, hats and Reading material available. Table and chairs too.",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Coventry Cofa Court - DWP",
@@ -2989,7 +3101,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "Contact: JCP Coventry Contact Centre BSU COVENTRY.CONTACTCENTREBSU@DWP.GOV.UK",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Trinity House Bridge HMRC",
@@ -3011,7 +3124,8 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "Prayer Mats Available.",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "CTSC Birmingham",
@@ -3033,7 +3147,8 @@ const RoomsList = [
     "Alert": 0,
     "Fill details": 1,
     "Notes": "There are 2 prayer rooms on each side of the kitchen. Small room is for the sisters",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": "<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Birmingham%20CTSC/room.png?csf=1&web=1&e=xtMQUQ\">Room</a>"
   },
   {
     "Title": "Custom House Heathrow",
@@ -3055,7 +3170,8 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": 1,
     "Notes": "Require staff access",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Ilford probation office (Oakland court)",
@@ -3077,7 +3193,8 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": "",
     "Notes": "Masjids: Ilford Islamic Centre: 9minutes away, Masjid al-Falah: 29 minutes away",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
     "Title": "Leicester Magistrates' Court - HMCTS",
@@ -3099,28 +3216,237 @@ const RoomsList = [
     "Alert": "",
     "Fill details": "",
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
   },
   {
-    "Title": "Not",
+    "Title": "Nottingham Magistrates Court - HMCTS",
     "Region": "",
-    "Address 1": "",
+    "Address 1": "Carrington St",
     "Address 2": "",
     "Address 3": "",
-    "Town/City": "",
-    "Postcode": "",
+    "Town/City": "Nottingham",
+    "Postcode": "NG22EJ,NG31DG",
     "Floor": "",
     "Block": "",
-    "Room": "",
+    "Room": "No prayer room available",
     "Timing": "",
     "Gender": "",
-    "Wudhu": "",
+    "Wudhu": "No Wudhu area",
     "Size": "",
     "Jummah time": "",
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
+    "Notes": "Masijds (Mosques) about 22mins walk away",
+    "Halal food": "",
+    "pictures_html": ""
+  },
+  {
+    "Title": "Centenary Court - HMRC",
+    "Region": "",
+    "Address 1": "1 St Blaise Way",
+    "Address 2": "",
+    "Address 3": "",
+    "Town/City": "Bradford",
+    "Postcode": "BD1 4XY",
+    "Floor": "Ground",
+    "Block": "Station end",
+    "Room": "",
+    "Timing": "",
+    "Gender": "Separate rooms",
+    "Wudhu": "On same floor opposite Reflection room",
+    "Size": "",
+    "Jummah time": "",
+    "Closest Masjids": "",
+    "Alert": 0,
+    "Fill details": 1,
     "Notes": "",
-    "Halal food": ""
+    "Halal food": "",
+    "pictures_html": ""
+  },
+  {
+    "Title": "Hendon Data Centre (Home Office)",
+    "Region": "",
+    "Address 1": "Inside police academy.",
+    "Address 2": "Peel Centre",
+    "Address 3": "Aerodome Road",
+    "Town/City": "London",
+    "Postcode": "NW9 5JE",
+    "Floor": 2,
+    "Block": "HDC",
+    "Room": "Prayer room",
+    "Timing": "",
+    "Gender": "Male only",
+    "Wudhu": "Not available",
+    "Size": "5-6 people",
+    "Jummah time": "",
+    "Closest Masjids": "",
+    "Alert": 1,
+    "Fill details": 0,
+    "Notes": "Prayer mats available",
+    "Halal food": "",
+    "pictures_html": ""
+  },
+  {
+    "Title": "Leeds Magistrates Court - HMCTS",
+    "Region": "",
+    "Address 1": "1 Westgate",
+    "Address 2": "",
+    "Address 3": "",
+    "Town/City": "Leeds",
+    "Postcode": "LS1 3JP",
+    "Floor": 6,
+    "Block": "",
+    "Room": "Rest / prayer room",
+    "Timing": "",
+    "Gender": "mixed",
+    "Wudhu": "Yes",
+    "Size": "5-6 people",
+    "Jummah time": "Being worked on",
+    "Closest Masjids": "LS13EX",
+    "Alert": 0,
+    "Fill details": 1,
+    "Notes": "People walk to Leeds hospital to pray Jummah at the moment",
+    "Halal food": "",
+    "pictures_html": ""
+  },
+  {
+    "Title": "Palatine House - DWP Head office",
+    "Region": "",
+    "Address 1": "Lancaster Road",
+    "Address 2": "",
+    "Address 3": "",
+    "Town/City": "Preston",
+    "Postcode": "PR1 1HB",
+    "Floor": "",
+    "Block": "",
+    "Room": "",
+    "Timing": "",
+    "Gender": "",
+    "Wudhu": "No ablution facilities",
+    "Size": "",
+    "Jummah time": "No Jummah",
+    "Closest Masjids": "",
+    "Alert": "",
+    "Fill details": "",
+    "Notes": "",
+    "Halal food": "",
+    "pictures_html": ""
+  },
+  {
+    "Title": "Bromley Service Centre - Huntingdon House - MoJ",
+    "Region": "",
+    "Address 1": "10 Masons Hill",
+    "Address 2": "Bromley",
+    "Address 3": "",
+    "Town/City": "Kent",
+    "Postcode": "BR2 9EY",
+    "Floor": "-1, 1",
+    "Block": "",
+    "Room": "Booths on lower ground and first floor",
+    "Timing": "",
+    "Gender": "Mixed (sign on door)",
+    "Wudhu": "Use toilets on first floor.",
+    "Size": 2,
+    "Jummah time": "",
+    "Closest Masjids": "BR28HF",
+    "Alert": 1,
+    "Fill details": 0,
+    "Notes": "Can sit and pray on first floor. Lower ground - 2 booths - sound proofed, quite tight space Bring prayer mat. For masjid/jummah go to Al-Emaan Centre - 13mins via bus 320 from Stop G.",
+    "Halal food": "No canteen but kitchen available with microwave, kettle and toaster",
+    "pictures_html": ""
+  },
+  {
+    "Title": "Probation Office - Leicester",
+    "Region": "",
+    "Address 1": "2 Cobden Street",
+    "Address 2": "",
+    "Address 3": "",
+    "Town/City": "Leicester",
+    "Postcode": "LE1 2LB",
+    "Floor": 2,
+    "Block": "",
+    "Room": "From stairs turn right and go through the double doors, turn left and the room is on your left",
+    "Timing": "",
+    "Gender": "",
+    "Wudhu": "Wudhu can be done on the same floor in the shower room which is just before the double doors on the left",
+    "Size": 5,
+    "Jummah time": "",
+    "Closest Masjids": "",
+    "Alert": 0,
+    "Fill details": 1,
+    "Notes": "Many Masajid are local for Jumu’ah in St Matthews",
+    "Halal food": "",
+    "pictures_html": ""
+  },
+  {
+    "Title": "Redfern Building - Greater Manchester Probation Service",
+    "Region": "",
+    "Address 1": "Off Sadler’s Yard",
+    "Address 2": "30 Hannover Street",
+    "Address 3": "",
+    "Town/City": "Manchester",
+    "Postcode": "M4 4AH",
+    "Floor": 4,
+    "Block": "",
+    "Room": "Prayer/Reflection room",
+    "Timing": "",
+    "Gender": "",
+    "Wudhu": "Shower room on Floor -1 on the right past the door as you exit the lifts",
+    "Size": "",
+    "Jummah time": "Not available",
+    "Closest Masjids": "M41DY",
+    "Alert": 0,
+    "Fill details": 1,
+    "Notes": "Mosque is 5 minutes walk for Jumu'ah prayer",
+    "Halal food": "",
+    "pictures_html": "<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Redfern%20building%20-%20Manchester/entrance.jpeg?csf=1&web=1&e=FugnIe\">Entrance</a> | <a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Redfern%20building%20-%20Manchester/area.jpeg?csf=1&web=1&e=SVco1A\">Outside area</a>"
+  },
+  {
+    "Title": "Richmond House, Parliament, Palaces of Westminster",
+    "Region": "London",
+    "Address 1": "Palaces of Westminster",
+    "Address 2": "",
+    "Address 3": "",
+    "Town/City": "London",
+    "Postcode": "SW1A 0AA",
+    "Floor": "",
+    "Block": "Richmond House",
+    "Room": "Prayer room",
+    "Timing": "Office hours",
+    "Gender": "Mixed with separator",
+    "Wudhu": "Use toilets",
+    "Size": 2,
+    "Jummah time": "1.05pm (in Multifaith room), 5th Floor, Millbank House, Pass holder access",
+    "Closest Masjids": "",
+    "Alert": 1,
+    "Fill details": 1,
+    "Notes": "",
+    "Halal food": "Ask in canteen",
+    "pictures_html": "<a href=\"https://justiceuk.sharepoint.com/:u:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Richmond%20House,%20Parliament/room.HEIC?csf=1&web=1&e=MYcGiP\">Room</a> | <a href=\"https://justiceuk.sharepoint.com/:u:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Richmond%20House,%20Parliament/friday%20prayer%20notice.HEIC?csf=1&web=1&e=Gyrfcg\">Friday prayer notice</a>"
+  },
+  {
+    "Title": "1 Ruskin Square HMRC / MoJ ( 1RS )",
+    "Region": "",
+    "Address 1": "1 Ruskin Square",
+    "Address 2": "",
+    "Address 3": "",
+    "Town/City": "Croydon",
+    "Postcode": "CR0 2WF",
+    "Floor": 8,
+    "Block": "",
+    "Room": "A8.02 (brothers) and Reflection room (sisters)",
+    "Timing": "Office hours",
+    "Gender": "Separate rooms for genders",
+    "Wudhu": "Not available, use staff toilets",
+    "Size": "About 21 for male, smaller room for female",
+    "Jummah time": "1.30pm - Request to join WhatsApp group to be kept up-to-date",
+    "Closest Masjids": "",
+    "Alert": 1,
+    "Fill details": 1,
+    "Notes": "Room is on right side as you enter the canteen. Shared with HMRC staff. Dedicated prayer room and contemplation room. Croydon Brothers WhatsApp group number for Friday prayers 07965 471820.",
+    "Halal food": "Canteen serves sandwiches and hot and cold drinks and has recently added halal options. Most Muslims bring their own and eat in the canteen, there are two top quality microwaves to heat food and ample seating space.   Croydon has multiple halal takeaways and restaurants within short walking distance to Ruskin Square.",
+    "pictures_html": "<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/1%20Ruskin%20Square%20Croydon/room%201.jpg?csf=1&web=1&e=KGAAQe\">Male room 1</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/1%20Ruskin%20Square%20Croydon/room%202.jpg?csf=1&web=1&e=WKrC4f\">2</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/1%20Ruskin%20Square%20Croydon/room%203.jpg?csf=1&web=1&e=5gEdyF\">3</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/1%20Ruskin%20Square%20Croydon/entrance.jpg?csf=1&web=1&e=cKv8rj\">Entrance</a>"
   }
 ]
