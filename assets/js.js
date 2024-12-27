@@ -31,7 +31,7 @@ const search = {
 			window.dataLayer.push({
         'event': 'room_search',
         'search_text': sText,
-        'results': results.count
+        'search_results_count': results.length
       });
 
 		},3000);
