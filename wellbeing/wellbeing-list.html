@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="en" class="govuk-template ">
   <head>
-    <title>Cross-gov Reflection Room finder</title>
+    <title>Cross-gov Wellbeing list</title>
     <meta name="robots" content="noindex, nofollow" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-    <link rel="stylesheet" href="assets/css.css">
-    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
-    <link rel="manifest" href="/assets/site.webmanifest">
-    <link rel="mask-icon" href="/assets/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="stylesheet" href="../assets/css.css">
+    <link rel="apple-touch-icon" sizes="180x180" href="..//assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="..//assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="..//assets/favicon-16x16.png">
+    <link rel="manifest" href="..//assets/site.webmanifest">
+    <link rel="mask-icon" href="..//assets/safari-pinned-tab.svg" color="#5bbad5">
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
     <!-- Google Tag Manager -->
@@ -34,21 +34,21 @@
         </div>
         <div class="govuk-header__content">
           <a href="/" class="govuk-header__link govuk-header__service-name">
-            Reflection Room finder
+            Muslim wellbeing resources
           </a>
         </div>
       </div>
     </header>
     <div class="govuk-width-container">
       <main class="govuk-main-wrapper" id="main-content" role="main">
-        <h1 class="govuk-heading-xl">Search for a Reflection room</h1>
-        <p class="govuk-body">Use the search engine below to find a place to contemplate, reflect or pray across the Civil Service. </p>
-        <p class="govuk-body"><strong>Or you can help the community</strong> and <a class="govuk-link" href="mailto:MoJMuslimNetwork@Justice.gov.uk?subject=Reflection Room info&body=Please let us know as much information as possible e.g. Office, Block, Floor, Room number, Open Timing, Jummah timing, Gender and Ablution facilities, attach photos, halal food information">send us information</a> about rooms.</p>
+        <h1 class="govuk-heading-xl">Search for wellbeing resources</h1>
+        <p class="govuk-body">Use the search engine below to find support. </p>
+        <p class="govuk-body"><strong>Or you can help the community</strong> and <a class="govuk-link" href="mailto:MoJMuslimNetwork@Justice.gov.uk?subject=Wellbeing support&body=Please let us know as much information as possible about the resource e.g. website, phone number, description, department-specific access">send us information</a> about wellbeing resources.</p>
         <div class="govuk-form-group">
           <label class="govuk-label" for="event-name">
-            Enter the office name, city or postcode
+            Enter what type of support you're looking for or the name of the resource
           </label>
-          <div class="govuk-hint">e.g. 102 or Nottingham or SW1P</div>
+          <div class="govuk-hint">e.g. bereavement, mental health, NourDV</div>
           <input class="govuk-input" id="searchBox" type="text">
           <div id="results" aria-live="polite"></div>
         </div>
@@ -71,8 +71,7 @@
     </footer>
     <script type="text/javascript">
       const RandomNumber = (Math.random() * 10000).toFixed(0);
-      document.write('<script src="assets/roomsList.js?' + RandomNumber + '"></' + 'script>');
-      document.write('<script src="assets/masjidList.js?' + RandomNumber + '"></' + 'script>');
+      document.write('<script src="assets/list.js?' + RandomNumber + '"></' + 'script>');
       document.write('<script src="assets/js.js?' + RandomNumber + '"></' + 'script>');
     </script>
   </body>
