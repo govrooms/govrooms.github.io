@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" class="govuk-template ">
   <head>
-    <title>Cross-gov Wellbeing list</title>
+    <title>Cross-gov Recitation player</title>
     <meta name="robots" content="noindex, nofollow" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
     <link rel="stylesheet" href="../assets/css.css">
@@ -16,9 +16,19 @@
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
     j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    'http../www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
     })(window,document,'script','dataLayer','GTM-PPVR2GL3');</script>
     <!-- End Google Tag Manager -->
+    <style>
+        audio { margin: 30px 0; } 
+        .playlist { list-style-type: none;
+            padding: 0; }
+        .playlist li { margin: 7px 0; background-color: #efefef;  }
+        .playlist li.active { border: 1px dashed darkgreen; }
+        .playlist li a:link, .playlist li a:visited { color: #333; text-decoration: none; display: block;padding: 5px 10px; }
+        .playlist li a:hover, .playlist li a:focus, .playlist li a:active { text-decoration: underline;  }
+        .active { font-weight: bold; }
+    </style>
   </head>
   <body class="govuk-template__body">
     <header class="govuk-header " role="banner" data-module="govuk-header">
@@ -34,45 +44,32 @@
         </div>
         <div class="govuk-header__content">
           <a href="/" class="govuk-header__link govuk-header__service-name">
-            Muslim wellbeing resources
+            Network recitation playlist
           </a>
         </div>
       </div>
     </header>
     <div class="govuk-width-container">
       <main class="govuk-main-wrapper" id="main-content" role="main">
-        <h1 class="govuk-heading-xl">Search for wellbeing resources</h1>
-        <p class="govuk-body">Use the search engine below to find support. </p>
-        <p class="govuk-body"><strong>Or you can help the community</strong> and <a class="govuk-link" href="mailto:MoJMuslimNetwork@Justice.gov.uk?subject=Wellbeing support&body=Please let us know as much information as possible about the resource e.g. website, phone number, description, department-specific access">send us information</a> about wellbeing resources.</p>
-        <div class="govuk-form-group">
-          <label class="govuk-label" for="event-name">
-            Enter what type of support you're looking for or the name of the resource
-          </label>
-          <div class="govuk-hint">e.g. bereavement, mental health, NourDV</div>
-          <input class="govuk-input" id="searchBox" type="text">
-          <div id="results" aria-live="polite"></div>
-        </div>
-        <aside>
-          <p class="govuk-body"><a href="http../forms.office.com/pages/responsepage.aspx?id=KEeHxuZx_kGp4S6MNndq2OEIt5P_9OZBmOfObNYNT-pUREoxQlk5SDBTNjc1QjNORUdTMkc3Q0E2VCQlQCN0PWcu" target="_blank">Sign up</a> to the Muslim Network - all government staff. Email us if you have any questions: MoJMuslimNetwork@justice.gov.uk </p>
-        </aside>
+        <h1 class="govuk-heading-xl">Listen to recitations selected by network members</h1>
+          <p class="govuk-body">Press the play button below to start recitation.</p>
+          <audio id="audioPlayer" controls>
+              Your browser does not support the audio element.
+          </audio>
+          <h2 class="govuk-heading-l">Playlist</h2>
+          <ul class="playlist govuk-body" id="playlist"></ul>
+          <p class="govuk-body"><br><a href="https://forms.office.com/pages/responsepage.aspx?id=KEeHxuZx_kGp4S6MNndq2OEIt5P_9OZBmOfObNYNT-pUREoxQlk5SDBTNjc1QjNORUdTMkc3Q0E2VCQlQCN0PWcu" target="_blank">Sign up</a> to the Muslim Network - all government staff. Email us if you have any questions: MoJMuslimNetwork@justice.gov.uk </p>
       </main>
     </div><!-- /govuk-width-container -->
     <footer class="govuk-footer " role="contentinfo">
       <div class="govuk-width-container ">
         <div class="govuk-footer__meta">
           <div class="govuk-footer__meta-item govuk-footer__meta-item--grow">
-
-            <span class="govuk-footer__licence-description">
-              <strong>Please note</strong> that information on this website may not always be accurate and up-to-date, despite our collective efforts.
-            </span>
           </div>
         </div>
       </div>
     </footer>
-    <script type="text/javascript">
-      const RandomNumber = (Math.random() * 10000).toFixed(0);
-      document.write('<script src="assets/list.js?' + RandomNumber + '"></' + 'script>');
-      document.write('<script src="assets/js.js?' + RandomNumber + '"></' + 'script>');
-    </script>
+    <script type="text/javascript" src="player.js"></script>
   </body>
 </html>
+
