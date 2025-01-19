@@ -371,6 +371,22 @@ const WellbeingList = [
     Website: 'https://hmpps.workplacewellbeing.com/',
     LinkText: 'hmpps.workplacewellbeing.com',
   }, 
+  { 
+    Category: 'Physical health', 
+    Title: 'Safeena cancer support', 
+    Author: 'J4v',
+    Description: 'We provide practical, educational, emotional support, and in particular, Islamic guidance’ for Muslims affected by cancer.', 
+    Website: 'https://www.safeena.org.uk/',
+    LinkText: 'www.safeena.org.uk',
+  }, 
+  { 
+    Category: 'Physical health', 
+    Title: 'British Islamic medical association (BIMA)', 
+    Author: 'J4v',
+    Description: 'BIMA strives to uphold the spirit of unity, calling all Muslim healthcare professionals and students to unite and work together.', 
+    Website: 'https://britishima.org/',
+    LinkText: 'britishima.org',
+  }, 
   // Prayers and Ramadan 
   { 
     Category: 'Prayers and Ramadan', 
