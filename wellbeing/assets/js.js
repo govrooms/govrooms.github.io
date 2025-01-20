@@ -16,6 +16,31 @@ const search = {
 	fieldsToSearch: ['Title', 'Category', 'Author']
 	, extraFieldsToShow: ['Category', 'Description', 'Email', 'Phone']
 
+	, populateCategoryList() {
+			const uniqueCats = WellbeingList.reduce((acc, obj) => {
+		  		if (!acc.includes(obj.Category)) {
+		    	acc.push(obj.Category);
+		  	}
+	  		return acc;
+			}, []).sort();
+			let ul = document.getElementById('categoryUL')
+			for(let i=0;i<uniqueCats.length;i++) {
+				const li = document.createElement('li');
+				const anch = document.createElement('a');
+				anch.className = ('govuk-link');
+				anch.href = "#";
+				anch.onclick = function() {search.replaceSearchValueFromCat(uniqueCats[i]) };
+				anch.innerText = uniqueCats[i];
+				li.appendChild(anch);
+				ul.appendChild(li);
+			}
+	}
+
+	,replaceSearchValueFromCat(cat) {
+	  searchBox.value = cat;
+	  this.runSearch(cat);
+	}
+
 	, runSearch(searchText) {
 		const results = this.getOfficeRecords(searchText);
 		this.officeHTML(results);
@@ -73,3 +98,5 @@ const search = {
 	return fieldsHTML;
 	}
 }
+
+search.populateCategoryList();

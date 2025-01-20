@@ -117,7 +117,7 @@ const WellbeingList = [
   },
   // Domestic violence
   { 
-    Category: '', 
+    Category: 'Domestic violence', 
     Title: 'Amina Muslim Women Resource Centre (Scotland)', 
     Author: 'J4v',
     Description: 'In person wellbeing sessions, domestic violence support, mental health support', 
