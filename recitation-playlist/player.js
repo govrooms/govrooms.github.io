@@ -1,9 +1,9 @@
 // JavaScript Object containing the playlist with links to audio files
 const playlist = [
-    { title: "Abdul Basit - Al-Baqarah", url: "https://podcasts.qurancentral.com/abdul-basit/002.mp3" },
-    { title: "Yasser al Dossari - Al-Mu'minoon", url: "https://podcasts.qurancentral.com/yasser-al-dossari/yasser-al-dossari-023.mp3" },
-    { title: "Hassan Saleh - Al Araf", url: "https://podcasts.qurancentral.com/hassan-saleh/hassan-saleh-007-muslimcentral.com.mp3" },
-    { title: "AbdulBari ath-Thubaity - Al Baqara", url: "https://podcasts.qurancentral.com/abdulbari-ath-thubaity/abdulbari-ath-thubaity-002.mp3" },
+    { title: "Abdul Basit - Al-Ma-idah", url: "https://govrooms.github.io/recitation-playlist/audio/abdul-basit-al-ma-idah.mp3" },
+    { title: "Yasser al Dossari - Al-Mu'minoon", url: "https://govrooms.github.io/recitation-playlist/audio/yasser-al-dossari-al-muminoon.mp3" },
+    { title: "Hassan Saleh - Al Araf", url: "https://govrooms.github.io/recitation-playlist/audio/hassan-saleh-al-araf.mp3" },
+    { title: "AbdulBari ath-Thubaity - Al Baqara", url: "https://govrooms.github.io/recitation-playlist/audio/abdulbari-ath-thubaity-al-baqara.mp3" },
 ];
 let currentIndex = 0; // Keep track of the current track index
 
