@@ -60,13 +60,6 @@ function autoplayNextSong() {
     });
 }
 
-// Function to handle the initial play button click to start audio playback
-function startPlayback() {
-    const audioPlayer = document.getElementById('audioPlayer');
-    audioPlayer.play(); // Trigger the first play action
-    autoplayNextSong(); // Enable autoplay of the next track
-}
-
 // Get the start index from the URL hash (deep linking)
 function getStartIndexFromUrl() {
     const params = new URLSearchParams(window.location.search);
@@ -76,4 +69,5 @@ function getStartIndexFromUrl() {
 // Initialize the playlist
 const startIndex = getStartIndexFromUrl();
 renderPlaylist(startIndex);
+autoplayNextSong();
 
