@@ -77,7 +77,3 @@ function getStartIndexFromUrl() {
 const startIndex = getStartIndexFromUrl();
 renderPlaylist(startIndex);
 
-// Add event listener to play button to trigger playback
-document.getElementById('playButton').addEventListener('click', startPlayback);
-
-
