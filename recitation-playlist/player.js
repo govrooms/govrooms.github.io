@@ -1,6 +1,6 @@
 // JavaScript Object containing the playlist with links to audio files
 const playlist = [
-    //{ title: "Abdel Moujib Benkirane - Ibrahim", url: "https://govrooms.github.io/recitation-playlist/audio/abdelmoujib-benkirane-ibrahim.mp3" },
+    { title: "Abdel Moujib Benkirane - Ibrahim", url: "https://govrooms.github.io/recitation-playlist/audio/abdelmoujib-benkirane-ibrahim.mp3" },
     { title: "Eid Hassan Abu Aachra - Al Hashr", url: "https://govrooms.github.io/recitation-playlist/audio/eid-hassan-abu-aachra-al-hashr.mp3" },
     { title: "Abdallah Humeid - Ya-Seen", url: "https://govrooms.github.io/recitation-playlist/audio/abdallah-humeid-ya-sin.mp3" },
     { title: "Abdul Mohsen Al-Harthy - Al-Kahf", url: "https://govrooms.github.io/recitation-playlist/audio/abdulmohsen-al-harthy-al-kahf.mp3" },
