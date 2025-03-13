@@ -349,6 +349,14 @@ const WellbeingList = [
   },
   { 
     Category: 'Physical health', 
+    Title: 'Menopause and work - SWIM network', 
+    Author: 'J4v',
+    Description: 'Internal MoJ staff network for Supporting the Workplace in Menopause', 
+    Website: 'https://intranet.justice.gov.uk/about-us/staff-networks/supporting-the-workplace-in-menopause/',
+    LinkText: 'SWIM network',
+  },  
+  { 
+    Category: 'Physical health', 
     Title: 'World Sight Day', 
     Author: 'J4v',
     Description: 'Celebration event around eyesight and the "father of optics". MoJ only, contact MoJMuslimNetwork@justice.gov.uk for external link.', 
