@@ -1,4 +1,4 @@
-const MasjidList = [
+const [
   {
     "Title": "Southampton Medina Mosque Trust Ltd",
     "Match_ID": "SO140BH",
@@ -718,5 +718,50 @@ const MasjidList = [
     "Fill details": "",
     "Jummah timing": "Multiple congregations, check website",
     "Notes": ""
+  },
+  {
+    "Title": "Bromley Islamic Centre",
+    "Match_ID": "BR11EY",
+    "Address 1": "First Floor",
+    "Address 2": "94A High Street",
+    "Address 3": "Bromley",
+    "Town/City": "London",
+    "Postcode": "BR1 1EY",
+    "Tel": "0 203 4883 310",
+    "Email": "info@bromleyislamiccentre.org.uk",
+    "Website": "https://www.bromleyislamiccentre.org.uk/",
+    "Fill details": "",
+    "Jummah timing": "See website",
+    "Notes": "Located through an Alleyway between Pret and Gails, and then turn right, masjid located behind shops"
+  },
+  {
+    "Title": "Small mosque in the city",
+    "Match_ID": "B33SD",
+    "Address 1": "Edmund Street Birmingham",
+    "Address 2": "",
+    "Address 3": "",
+    "Town/City": "Birmingham",
+    "Postcode": "B3 3SD",
+    "Tel": "",
+    "Email": "",
+    "Website": "https://maps.app.goo.gl/5insRK3BPRSkV62DA",
+    "Fill details": 1,
+    "Jummah timing": "",
+    "Notes": ""
+  },
+  {
+    "Title": "Halls for Jumuah",
+    "Match_ID": "H4J",
+    "Address 1": "",
+    "Address 2": "",
+    "Address 3": "",
+    "Town/City": "",
+    "Postcode": "",
+    "Tel": "",
+    "Email": "",
+    "Website": "https://www.halls4jumuah.org/home",
+    "Fill details": "",
+    "Jummah timing": "",
+    "Notes": "See the website to find all halls for Friday prayer in the city area"
   }
 ]
