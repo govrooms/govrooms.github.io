@@ -1,4 +1,4 @@
-const [
+const MasjidList = [
   {
     "Title": "Southampton Medina Mosque Trust Ltd",
     "Match_ID": "SO140BH",
