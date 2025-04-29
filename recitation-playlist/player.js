@@ -1,5 +1,6 @@
 // JavaScript Object containing the playlist with links to audio files
 const playlist = [
+    { title: "AbdulBari ath-Thubaity - Al Baqara", url: "https://govrooms.github.io/recitation-playlist/audio/abdulbari-ath-thubaity-al-baqara.mp3" },
     { title: "Abdelhamid Hssain - Maryam", url: "https://govrooms.github.io/recitation-playlist/audio/abdelhamid-hssain-Maryam.mp3" },
     { title: "Abdel Aziz Al-Ahmed - An-Nisa", url: "https://govrooms.github.io/recitation-playlist/audio/Abdel-Aziz-Al-Ahmed-AnNisa.mp3" },
     { title: "Abdallah Kamel - Ash-Shuara", url: "https://govrooms.github.io/recitation-playlist/audio/Abdallah-Kamel-Ash-Shuara.mp3" },
@@ -12,7 +13,6 @@ const playlist = [
     { title: "Abdul Basit - Al-Ma-idah", url: "https://govrooms.github.io/recitation-playlist/audio/abdul-basit-al-ma-idah.mp3" },
     { title: "Yasser al Dossari - Al-Mu'minoon", url: "https://govrooms.github.io/recitation-playlist/audio/yasser-al-dossari-al-muminoon.mp3" },
     { title: "Hassan Saleh - Al Araf", url: "https://govrooms.github.io/recitation-playlist/audio/hassan-saleh-al-araf.mp3" },
-    { title: "AbdulBari ath-Thubaity - Al Baqara", url: "https://govrooms.github.io/recitation-playlist/audio/abdulbari-ath-thubaity-al-baqara.mp3" },
 ];
 let currentIndex = 0; // Keep track of the current track index
 
