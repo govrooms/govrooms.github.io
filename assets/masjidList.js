@@ -213,16 +213,16 @@ const MasjidList = [
     "Title": "Churchill Pace Shopping Mall (Multi-faith)",
     "Match_ID": "E145RB",
     "Address 1": "2 Churchill Place",
-    "Address 2": "",
+    "Address 2": "Next to Post Office",
     "Address 3": "",
     "Town/City": "London",
     "Postcode": "E14 5RB",
     "Tel": "",
     "Email": "",
-    "Website": "https://canarywharf.com/",
+    "Website": "https://canarywharfchaplaincy.co.uk/",
     "Fill details": "",
-    "Jummah timing": "Men only: 1.05pm, Men & Women 1.40pm",
-    "Notes": "Multifaith - certain times only for each faith - Access required - check times before going there or they won't allow you in. Link here: https://canarywharf.com/faqs/ - search for pray - Timetable for 2022 here: https://canarywharf.com/wp-content/uploads/2022/03/canary-wharf-prayer-room-timetable-28-mar-2022.pdf\nhttps://canarywharfchaplaincy.co.uk/"
+    "Jummah timing": "See websites",
+    "Notes": "Multifaith - certain times only for each faith - check times before going there or they won't allow you in between prayers. Link here: https://canarywharf.com/faqs/ \nhttps://canarywharf.com/"
   },
   {
     "Title": "Masjid Al-Huda",
@@ -763,5 +763,20 @@ const MasjidList = [
     "Fill details": "",
     "Jummah timing": "",
     "Notes": "See the website to find all halls for Friday prayer in the city area"
+  },
+  {
+    "Title": "Tower Hamlets Jumuah places",
+    "Match_ID": "TowerHamlets",
+    "Address 1": "",
+    "Address 2": "",
+    "Address 3": "",
+    "Town/City": "",
+    "Postcode": "",
+    "Tel": "",
+    "Email": "",
+    "Website": "https://www.towerhamletsmosques.co.uk/jumuahtimes/",
+    "Fill details": "",
+    "Jummah timing": "",
+    "Notes": "See the website to find a Friday prayer space. Always double check timing."
   }
 ]
