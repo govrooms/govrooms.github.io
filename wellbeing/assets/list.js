@@ -169,6 +169,14 @@ const WellbeingList = [
   },
   { 
     Category: 'Mental health', 
+    Title: 'Beyond Minds', 
+    Author: 'J4v',
+    Description: 'Transforming lives by providing compassionate and professional mental health and wellbeing services.', 
+    Website: 'https://beyondminds.co.uk/',
+    LinkText: 'beyondminds.co.uk',
+  },  
+  { 
+    Category: 'Mental health', 
     Title: 'Inspirited minds', 
     Author: 'J4v',
     Description: 'Muslim Mental health support', 
