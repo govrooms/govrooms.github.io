@@ -1,5 +1,6 @@
 // JavaScript Object containing the playlist with links to audio files
 const playlist = [
+    { title: "Abdel Moujib Benkirane - Ibrahim", url: "https://govrooms.github.io/recitation-playlist/audio/abdelmoujib-benkirane-ibrahim.mp3" },
     { title: "Eid Hassan Abu Aachra - Al-Hashr", url: "https://govrooms.github.io/recitation-playlist/audio/eid-hassan-abu-aachra-al-hashr.mp3" },
     { title: "Abdallah Humeid - Ya-Seen", url: "https://govrooms.github.io/recitation-playlist/audio/abdallah-humeid-ya-sin.mp3" },
     { title: "Abdul Mohsen Al-Harthy - Al-Kahf", url: "https://govrooms.github.io/recitation-playlist/audio/abdulmohsen-al-harthy-al-kahf.mp3" },
@@ -12,7 +13,6 @@ const playlist = [
     { title: "Abdallah Kamel - Ash-Shuara", url: "https://govrooms.github.io/recitation-playlist/audio/Abdallah-Kamel-Ash-Shuara.mp3" },
     { title: "Abdallah Azab - Aal-E-Imran", url: "https://govrooms.github.io/recitation-playlist/audio/Abdallah-Azab-Aal-E-Imran.mp3" },
     { title: "Aaar Al-Hudhoudi - Al-Anaam", url: "https://govrooms.github.io/recitation-playlist/audio/Aaar-Al-Hudhoudi-Al-Anaam.mp3" },
-    { title: "Abdel Moujib Benkirane - Ibrahim", url: "https://govrooms.github.io/recitation-playlist/audio/abdelmoujib-benkirane-ibrahim.mp3" },
 ];
 let currentIndex = 0; // Keep track of the current track index
 
