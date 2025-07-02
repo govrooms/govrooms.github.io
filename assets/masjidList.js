@@ -467,16 +467,16 @@ const MasjidList = [
   {
     "Title": "Andalus Community Centre",
     "Match_ID": "S25TR",
-    "Address 1": "35-37 Exchange Street",
-    "Address 2": "Mudfords Building",
+    "Address 1": "43 Townshead Street",
+    "Address 2": "",
     "Address 3": "",
     "Town/City": "Sheffield",
-    "Postcode": "S2 5TR",
-    "Tel": "",
+    "Postcode": "S1 2EB",
+    "Tel": "0114 2721934",
     "Email": "",
     "Website": "http://www.andalus.org.uk/",
     "Fill details": 1,
-    "Jummah timing": "1.30 (summer) / 12.30 (winter)",
+    "Jummah timing": "",
     "Notes": ""
   },
   {
