@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en" class="govuk-template ">
+  <head>
+    <title>Cross-gov Recitation player</title>
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <link rel="stylesheet" href="../assets/css.css">
+    <link rel="apple-touch-icon" sizes="180x180" href="../assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../assets/favicon-16x16.png">
+    <link rel="manifest" href="../assets/site.webmanifest">
+    <link rel="mask-icon" href="../assets/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="referrer" content="no-referrer" />
+    <meta name="theme-color" content="#ffffff">
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PPVR2GL3');</script>
+    <!-- End Google Tag Manager -->
+    <style>
+        audio { margin: 30px 0; } 
+        .playlist { list-style-type: none;
+            padding: 0; }
+        .playlist li { margin: 7px 0; background-color: #efefef;  }
+        .playlist li.active { border: 1px dashed darkgreen; }
+        .playlist li a:link, .playlist li a:visited { color: #333; text-decoration: none; display: block;padding: 5px 10px; }
+        .playlist li a:hover, .playlist li a:focus, .playlist li a:active { text-decoration: underline;  }
+        .active { font-weight: bold; }
+    </style>
+  </head>
+  <body class="govuk-template__body">
+    <header class="govuk-header " role="banner" data-module="govuk-header">
+      <div class="govuk-header__container govuk-width-container">
+        <div class="govuk-header__logo">
+          <a href="#" class="govuk-header__link govuk-header__link--homepage">
+            <span class="govuk-header__logotype">
+              <span class="govuk-header__logotype-text">
+                MOJ MN
+              </span>
+            </span>
+          </a>
+        </div>
+        <div class="govuk-header__content">
+          <a href="/" class="govuk-header__link govuk-header__service-name">
+            Network recitation playlist
+          </a>
+        </div>
+      </div>
+    </header>
+    <div class="govuk-width-container">
+      <main class="govuk-main-wrapper" id="main-content" role="main">
+        <h1 class="govuk-heading-xl">Listen to recitations selected by network members</h1>
+          <p class="govuk-body">Press the play button below to start recitation.</p>
+          <audio id="audioPlayer" controls>
+              Your browser does not support the audio element.
+          </audio>
+          <h2 class="govuk-heading-l">Playlist</h2>
+          <ul class="playlist govuk-body" id="playlist"></ul>
+          <p class="govuk-body"><br><a href="https://forms.office.com/pages/responsepage.aspx?id=KEeHxuZx_kGp4S6MNndq2OEIt5P_9OZBmOfObNYNT-pUREoxQlk5SDBTNjc1QjNORUdTMkc3Q0E2VCQlQCN0PWcu" target="_blank" class="govuk-link" >Sign up</a> to the Muslim Network - all government staff. Email us if you have any questions: MoJMuslimNetwork@justice.gov.uk </p>
+      </main>
+    </div><!-- /govuk-width-container -->
+    <footer class="govuk-footer " role="contentinfo">
+      <div class="govuk-width-container ">
+        <div class="govuk-footer__meta">
+          <div class="govuk-footer__meta-item govuk-footer__meta-item--grow">
+          </div>
+        </div>
+      </div>
+    </footer>
+    <script type="text/javascript" src="player.js"></script>
+  </body>
+</html>
+
