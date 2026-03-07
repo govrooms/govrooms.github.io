@@ -289,14 +289,31 @@ const WellbeingList = [
     Website: 'https://www.gov.uk/government/publications/civil-service-staff-networks/civil-service-muslim-network',
     LinkText: 'GovUK page',
   },
+  // Marriage
   { 
-    Category: 'Networking', 
+    Category: 'Marriage', 
     Title: 'Finding Your Compass: Marriage Matters', 
     Author: 'J4v',
     Description: 'Sway article running through ideas around marriage', 
     Website: 'https://sway.cloud.microsoft/TFvqq69rQvrWll4e?ref=Link',
     LinkText: 'Sway page',
   }, 
+  { 
+    Category: 'Marriage Counselling', 
+    Title: 'Islamic Council', 
+    Author: 'J4v',
+    Description: 'Marriage support, parental support, marital disputes and divorce', 
+    Website: 'https://www.islamiccouncil.com/',
+    LinkText: 'www.islamiccouncil.com',
+  },   
+  { 
+    Category: 'Marriage Counselling', 
+    Title: '', 
+    Author: 'J4v',
+    Description: 'Marriage support, Spiritual mentorship, life coaching', 
+    Website: 'https://www.imdadiyyah.org/counselling',
+    LinkText: 'www.imdadiyyah.org',
+  },   
   // Civil Service Policy
   { 
     Category: 'Civil Service Policy', 
