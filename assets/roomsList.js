@@ -3609,5 +3609,28 @@ const RoomsList = [
     "Notes": "",
     "Halal food": "",
     "pictures_html": ""
+  },
+  {
+    "Title": "DEFRA - York",
+    "Region": "",
+    "Address 1": "Kings Pool/Foss House Peasholme Grn",
+    "Address 2": "",
+    "Address 3": "",
+    "Town/City": "York",
+    "Postcode": "YO1 7PX",
+    "Floor": "Ground",
+    "Block": "",
+    "Room": "Multifaith room",
+    "Timing": "",
+    "Gender": "",
+    "Wudhu": "Available",
+    "Size": "",
+    "Jummah time": "No Jummuah",
+    "Closest Masjids": "",
+    "Alert": 1,
+    "Fill details": 1,
+    "Notes": "",
+    "Halal food": "",
+    "pictures_html": ""
   }
 ]
