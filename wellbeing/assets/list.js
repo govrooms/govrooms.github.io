@@ -23,6 +23,14 @@ const WellbeingList = [
     Website: 'https://www.maslaha.org/',
     LinkText: 'www.maslaha.org',
   },
+  { 
+    Category: 'Support against Islamophobia', 
+    Title: 'Social worker for Islamophobia ', 
+    Author: 'J4v',
+    Description: 'Article relating to social working group against Islamophobia', 
+    Website: 'https://basw.co.uk/about-social-work/psw-magazine/articles/bid-set-muslim-social-workers-network-face-rising',
+    LinkText: 'Web site',
+  },  
   // Bereavement and burial funding 
   { 
     Category: 'Bereavement and burial funding', 
