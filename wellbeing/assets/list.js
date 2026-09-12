@@ -412,11 +412,11 @@ const WellbeingList = [
   },   
   { 
     Category: 'Marriage Counselling', 
-    Title: '', 
+    Title: 'Imdadiyyah', 
     Author: 'J4v',
     Description: 'Marriage support, Spiritual mentorship, life coaching', 
-    Website: 'https://www.imdadiyyah.org/counselling',
-    LinkText: 'www.imdadiyyah.org',
+    Website: 'https://app.imdadiyyah.org/',
+    LinkText: 'app.imdadiyyah.org',
   },   
   // Civil Service Policy
   { 
