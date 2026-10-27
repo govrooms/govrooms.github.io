@@ -9,22 +9,6 @@ const WellbeingList = [
   // Support against Islamophobia
   { 
     Category: 'Support against Islamophobia', 
-    Title: 'MEND',
-    Author: 'J4v',
-    Description: 'Muslim engagement and development', 
-    Website: 'https://www.mend.org.uk/',
-    LinkText: 'www.mend.org.uk',
-  },
-  { 
-    Category: 'Support against Islamophobia', 
-    Title: 'Maslaha', 
-    Author: 'J4v',
-    Description: 'Contemporary myth busting, challenging stereotypes, Schooling advice', 
-    Website: 'https://www.maslaha.org/',
-    LinkText: 'www.maslaha.org',
-  },
-  { 
-    Category: 'Support against Islamophobia', 
     Title: 'Social worker for Islamophobia ', 
     Author: 'J4v',
     Description: 'Article relating to social working group against Islamophobia', 
@@ -56,14 +40,6 @@ const WellbeingList = [
     Website: 'https://nbc.org.uk',
     LinkText: 'nbc.org.uk',
   },
-  { 
-    Category: 'Bereavement and burial funding', 
-    Title: '13 Rivers Trust', 
-    Author: 'J4v',
-    Description: 'Charity organisation', 
-    Website: 'https://13riverstrust.co.uk/muslim-burial-fund/',
-    LinkText: '13riverstrust.co.uk',
-  },
   // Career progression
   { 
     Category: 'Career progression', 
@@ -76,7 +52,7 @@ const WellbeingList = [
   },
   { 
     Category: 'Career progression', 
-    Title: 'Justice Digital Job train', 
+    Title: 'Justice Digital JobTrain', 
     Author: 'J4v',
     Description: 'Apply for jobs in Justice Digital', 
     Website: 'https://www.jobtrain.co.uk/justicedigital/',
@@ -104,8 +80,8 @@ const WellbeingList = [
     Title: 'Disability, Advocacy, & Well-being Network (DAWN)', 
     Author: 'J4v',
     Description: 'HMPPS Staff network (MoJ)', 
-    Website: 'https://justiceuk.sharepoint.com/:u:/r/sites/Disability.Advocacy.Well-being.Network/SitePages/Employee-onboarding-team-home.aspx?csf=1&web=1&e=XrdE4d',
-    LinkText: 'DAWN page',
+    Website: 'https://justiceuk.sharepoint.com/sites/Disability.Advocacy.Well-being.Network/SitePages/Employee-onboarding-team-home.aspx',
+    LinkText: 'DAWN one stop shop',
   },
   { 
     Category: 'Disability support', 
@@ -195,7 +171,7 @@ const WellbeingList = [
     Category: 'Mental health', 
     Title: 'Prayers in Islam: Duty, Wellbeing, and Science', 
     Author: 'J4v',
-    Description: 'Prerequisite for any hope of peace and success may be the five daily prayers', 
+    Description: 'Faith resource for peace and success - the five daily prayers', 
     Website: 'https://sway.cloud.microsoft/Bjrsazqq9QzkJ76a?ref=Link',
     LinkText: 'Sway page',
   },
@@ -233,14 +209,6 @@ const WellbeingList = [
   },
   { 
     Category: 'Mental health', 
-    Title: 'Muslim youth helpline / network', 
-    Author: 'J4v',
-    Description: 'Confidential advise and support for cultural and mental health issues', 
-    Website: 'https://myh.org.uk/',
-    LinkText: 'myh.org.uk',
-  },
-  { 
-    Category: 'Mental health', 
     Title: 'The Lantern initiative', 
     Author: 'J4v',
     Description: 'Muslim Mental health support, signposting and chai n chat events for women.', 
@@ -251,7 +219,7 @@ const WellbeingList = [
     Category: 'Mental health', 
     Title: 'Muslim Counsellor and Psychotherapist Network (MCAPN)', 
     Author: 'J4v',
-    Description: 'Muslim counselling / supervision directory, wellbeing videos', 
+    Description: 'Muslim counselling / supervision directory. Independent directory and professional network. MCAPN is not a regulator or accredited register; users should independently verify each practitioner’s qualifications, registration, insurance and complaints process, wellbeing videos', 
     Website: 'https://www.mcapn.co.uk/',
     LinkText: 'www.mcapn.co.uk',
   },
@@ -270,14 +238,6 @@ const WellbeingList = [
     Description: 'Counselling, Marriage counselling', 
     Website: 'https://www.sakoon.co.uk/',
     LinkText: 'www.sakoon.co.uk',
-  },
-  { 
-    Category: 'Mental health', 
-    Title: 'UK Muslim mental health directory', 
-    Author: 'J4v',
-    Description: 'Mental health services advertised on their directory', 
-    Website: 'https://muslimmentalhealthhub.org/',
-    LinkText: 'muslimmentalhealthhub.org',
   },
   { 
     Category: 'Mental health', 
@@ -309,7 +269,7 @@ const WellbeingList = [
     Author: 'J4v',
     Description: 'Suicide prevention, influence a significant reduction in the annual suicide numbers in the UK.', 
     Website: 'https://thejordanlegacy.com/',
-    LinkText: 'prevent-suicide.org',
+    LinkText: 'thejordanlegacy.com',
   },
   { 
     Category: 'Mental health', 
@@ -562,7 +522,7 @@ const WellbeingList = [
     Category: 'Social confidence', 
     Title: 'Dr Aziz Social confidence centre', 
     Author: 'J4v',
-    Description: 'Free Podcasts and videos and paid courses by a highly successful confidence confidence coach', 
+    Description: 'Free Podcasts and videos and external commercial paid courses by a confidence coach. Pending commercial / propriety review.', 
     Website: 'https://www.socialconfidencecenter.com/',
     LinkText: 'www.socialconfidencecenter.com',
   },
@@ -599,14 +559,6 @@ const WellbeingList = [
     Description: 'HMPPS Staff network', 
     Website: 'https://justiceuk.sharepoint.com/:u:/r/sites/Disability.Advocacy.Well-being.Network/SitePages/Employee-onboarding-team-home.aspx?csf=1&web=1&e=XrdE4d',
     LinkText: 'DAWN page',
-  },
-  { 
-    Category: 'Workplace support & grievances', 
-    Title: 'Tackling unacceptable behaviours unit (TUBU)', 
-    Author: 'J4v',
-    Description: 'Report unacceptable behavior or behaviour that is aginst the Civil Service code for HMPPS. (MoJ only)', 
-    Website: 'https://justiceuk.sharepoint.com/sites/HMPPSIntranet/SitePages/Tackling-Unacceptable-Behaviour-Unit-(TUBU).aspx?web=1',
-    LinkText: 'Intranet site',
   },
   { 
     Category: 'Workplace support & grievances', 
