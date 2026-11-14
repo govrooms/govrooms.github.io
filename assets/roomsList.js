@@ -18,12 +18,12 @@ const RoomsList = [
     "Closest Masjids": "B33SD,B24QA",
     "Alert": 0,
     "Fill details": "",
-    "Notes": "It also has seating areas within the room. There are separate wudhu rooms for males and females, just outside the entrance to the prayer room, with wudhu pods. There is clear signage to the prayer rooms from the hallway where the lifts are situated.",
+    "Notes": "It also has seating areas within the room. There are separate wudhu rooms for males and females, just outside the entrance to the prayer room, with wudhu pods. There is clear signage to the prayer rooms from the hallway where the lifts are situated. ",
     "Halal food": "",
     "pictures_html": ""
   },
   {
-    "Title": "Southampton Combined court",
+    "Title": "Southampton Combined court ",
     "Region": "",
     "Address 1": "",
     "Address 2": "",
@@ -92,7 +92,7 @@ const RoomsList = [
     "pictures_html": ""
   },
   {
-    "Title": "Manchester Civil Justice centre (HMCTS)",
+    "Title": "Manchester Civil Justice centre (HMCTS) ",
     "Region": "",
     "Address 1": "",
     "Address 2": "",
@@ -184,7 +184,7 @@ const RoomsList = [
     "pictures_html": ""
   },
   {
-    "Title": "Centenary house",
+    "Title": "Centenary house ",
     "Region": "",
     "Address 1": "",
     "Address 2": "",
@@ -276,13 +276,13 @@ const RoomsList = [
     "pictures_html": ""
   },
   {
-    "Title": "2 Marsham Street (2MS)",
+    "Title": "2 Marsham Street (2MS) ",
     "Region": "",
     "Address 1": "2 Marsham Street",
     "Address 2": "",
     "Address 3": "",
     "Town/City": "London",
-    "Postcode": "SW1P 4DF",
+    "Postcode": "SW1P 4DF ",
     "Floor": "Basement",
     "Block": "",
     "Room": "Near canteen",
@@ -294,7 +294,7 @@ const RoomsList = [
     "Closest Masjids": "SW1P4HB,SW1P4HB2,SW1V4LP",
     "Alert": "",
     "Fill details": "",
-    "Notes": "The room used by sisters has a curtain to offer some privacy at the wudhu sink since it is visible from the doorway. I think the wall between the two is removeable?   In London 2MS, on Friday's there is a space near Edward Alsop Court (Across the street from 2MS) to pray Friday Jummah. I can't confirm if they accommodate for sisters, but there is space for men.",
+    "Notes": " The room used by sisters has a curtain to offer some privacy at the wudhu sink since it is visible from the doorway. I think the wall between the two is removeable?   In London 2MS, on Friday's there is a space near Edward Alsop Court (Across the street from 2MS) to pray Friday Jummah. I can't confirm if they accommodate for sisters, but there is space for men. ",
     "Halal food": "",
     "pictures_html": ""
   },
@@ -662,7 +662,7 @@ const RoomsList = [
     "Closest Masjids": "SW1P4HB,SW1P4HB2,SW1V4LP",
     "Alert": 0,
     "Fill details": 1,
-    "Notes": "Ablution facilities (unisex) are available in the same place (next to lifts). Separate Female only ablution facilities are available within the female toilets. These are on the same floor – if you are facing the Prayer room turn left and go through 2 sets of double doors, female toilets are on your left.",
+    "Notes": "Ablution facilities (unisex) are available in the same place (next to lifts). Separate Female only ablution facilities are available within the female toilets. These are on the same floor – if you are facing the Prayer room turn left and go through 2 sets of double doors, female toilets are on your left. ",
     "Halal food": "Can request Halal hot food in canteen",
     "pictures_html": ""
   },
@@ -991,7 +991,7 @@ const RoomsList = [
   {
     "Title": "102 Petty France (102PF)",
     "Region": "",
-    "Address 1": "102 Petty France",
+    "Address 1": "102 Petty France ",
     "Address 2": "",
     "Address 3": "",
     "Town/City": "London",
@@ -1009,7 +1009,7 @@ const RoomsList = [
     "Fill details": 0,
     "Notes": "Ministry of Justice/Government Legal Department/Crown Prosecution Service/Her Majesty's Court and Tribunal Service\n\nGo down stairs towards the left after entering through security gates. \n\nBrothers: take left, go through double doors, Then door on right. (see room on left and wudhu on right)\n\nSisters: Take right from stairs then 1st left corridor. Room is on right. Use Wudhu area next to brothers one. Exit from 102 Petty France, the current HQ for the Ministry of Justice, the Government Legal Department, Crown Prosecution Service and HM Courts and Tribunals Service, is planned in 2028.",
     "Halal food": "Try Strutton ground 5 minute walk, no reliable halal meat in building",
-    "pictures_html": "<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/102PF%20male/1.jpg?csf=1&web=1&e=6gPY30\">Male prayer room</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/102PF%20male/2.JPG?csf=1&web=1&e=AVFEBx\">Male ablution 1</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/102PF%20male/3.JPG?csf=1&web=1&e=gyelcX\">2</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/102PF%20male/4.JPG?csf=1&web=1&e=Yjfrw6\">3</a><br><a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/102PF%20female/1.jpg?csf=1&web=1&e=DbEYEM\">Female prayer room 1</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/102PF%20female/2.jpg?csf=1&web=1&e=II1GFt\">2</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/102PF%20female/3.jpg?csf=1&web=1&e=LAvdbW\">3</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/102PF%20female/4.jpg?csf=1&web=1&e=zzljSq\">4</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/102PF%20female/5.JPG?csf=1&web=1&e=RhbtUR\">Female ablution 1</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/102PF%20female/6.JPG?csf=1&web=1&e=dCiVGj\">2</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/102PF%20female/7.JPG?csf=1&web=1&e=EKL81y\">3</a>"
+    "pictures_html": "<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/102PF%20male/1.jpg?csf=1&web=1&e=6gPY30\">Male prayer room</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/102PF%20male/2.JPG?csf=1&web=1&e=AVFEBx\">Male ablution 1</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/102PF%20male/3.JPG?csf=1&web=1&e=gyelcX\">2</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/102PF%20male/4.JPG?csf=1&web=1&e=Yjfrw6\">3</a><br><a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/102PF%20female/1.jpg?csf=1&web=1&e=DbEYEM\">Female prayer room 1</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/102PF%20female/2.jpg?csf=1&web=1&e=II1GFt\">2</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/102PF%20female/3.jpg?csf=1&web=1&e=LAvdbW\">3</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/102PF%20female/4.jpg?csf=1&web=1&e=zzljSq\">4</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/102PF%20female/5.JPG?csf=1&web=1&e=RhbtUR\">Female ablution 1</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/102PF%20female/6.JPG?csf=1&web=1&e=dCiVGj\">2</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/102PF%20female/7.JPG?csf=1&web=1&e=EKL81y\">3</a>\n"
   },
   {
     "Title": "HMT / DCMS / Cabinet Office / HMRC / NIO",
@@ -1330,7 +1330,7 @@ const RoomsList = [
     "Alert": 1,
     "Fill details": 1,
     "Notes": "Currently limited to one in one out due to size",
-    "Halal food": "Kitchen available, no canteen",
+    "Halal food": "Kitchen available, no canteen\n",
     "pictures_html": "<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Bennett%20House%20-%20stoke/room.png?csf=1&web=1&e=PnfQED\">Room</a> |\n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Bennett%20House%20-%20stoke/wash%20room.png?csf=1&web=1&e=MXrbtw\">Washroom 1</a>  | <a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Bennett%20House%20-%20stoke/wudhu.jpeg?csf=1&web=1&e=h3ZBrP\">2</a>"
   },
   {
@@ -1490,7 +1490,7 @@ const RoomsList = [
     "Closest Masjids": "CR02RF",
     "Alert": "",
     "Fill details": 1,
-    "Notes": "Dedicated Prayer and contemplation on 14th floor\nNote: There are access restrictions to second floor room - HMPPS only. Also the 14th floor is no longer for HMPPS - so it may no longer be available.",
+    "Notes": "Dedicated Prayer and contemplation on 14th floor\nNote: There are access restrictions to second floor room - HMPPS only. Also the 14th floor is no longer for HMPPS - so it may no longer be available.\n",
     "Halal food": "",
     "pictures_html": ""
   },
@@ -1612,7 +1612,7 @@ const RoomsList = [
   {
     "Title": "Victory House (VH)",
     "Region": "",
-    "Address 1": "30-34 Kingsway",
+    "Address 1": "30-34 Kingsway ",
     "Address 2": "",
     "Address 3": "",
     "Town/City": "London",
@@ -1766,7 +1766,7 @@ const RoomsList = [
     "Closest Masjids": "DL36LY",
     "Alert": "",
     "Fill details": 1,
-    "Notes": "We need brothers and sisters to come together to ensure it has what it needs for muslim prayers, i.e. prayer mats, segregation, etc. And importantly when the numbers are high enough Jummah prayers to be established.",
+    "Notes": "We need brothers and sisters to come together to ensure it has what it needs for muslim prayers, i.e. prayer mats, segregation, etc. And importantly when the numbers are high enough Jummah prayers to be established. ",
     "Halal food": "",
     "pictures_html": ""
   },
@@ -1819,7 +1819,7 @@ const RoomsList = [
   {
     "Title": "HM Passport office, Warehouse K",
     "Region": "",
-    "Address 1": "2 Western Gateway / Seagull Lane",
+    "Address 1": " 2 Western Gateway / Seagull Lane",
     "Address 2": "Docklands",
     "Address 3": "",
     "Town/City": "London",
@@ -1918,10 +1918,10 @@ const RoomsList = [
     "Postcode": "PE1 1DY",
     "Floor": "2nd",
     "Block": "Central Finance Unit (after Probation)",
-    "Room": "Go towards Courts 4-6. Pass waiting Area, then see Interview rooms in Corridor. These are used for prayer as well - Room 121.  Or if using Commuter Hub -  commuter hub is quiet and private so can pray there too.",
+    "Room": "  Go towards Courts 4-6. Pass waiting Area, then see Interview rooms in Corridor. These are used for prayer as well - Room 121.  Or if using Commuter Hub -  commuter hub is quiet and private so can pray there too.",
     "Timing": "Office hours",
     "Gender": "Any",
-    "Wudhu": "Best Wudhu area is after waiting room when heading towards courts 4-6, Interview room 126. Or for commuter hub - Toilet outside but small sink in commuter Hub area on 1st floor.",
+    "Wudhu": "Best Wudhu area is after waiting room when heading towards courts 4-6, Interview room 126. Or for commuter hub - Toilet outside but small sink in commuter Hub area on 1st floor. ",
     "Size": 2,
     "Jummah time": "",
     "Closest Masjids": "PE12BN,PE12BY",
@@ -2010,7 +2010,7 @@ const RoomsList = [
     "Postcode": "KT13 8RX",
     "Floor": "2 (top)",
     "Block": "",
-    "Room": "Multifaith prayer room",
+    "Room": "Multifaith prayer room ",
     "Timing": "",
     "Gender": "",
     "Wudhu": "No facilities - Use the staff toilets",
@@ -2302,7 +2302,7 @@ const RoomsList = [
   {
     "Title": "Manchester Soapworks building - Home Office",
     "Region": "",
-    "Address 1": "Colgate Ln",
+    "Address 1": "Colgate Ln ",
     "Address 2": "",
     "Address 3": "",
     "Town/City": "Salford",
@@ -2343,7 +2343,7 @@ const RoomsList = [
     "Fill details": 0,
     "Notes": "",
     "Halal food": "",
-    "pictures_html": "Female room: <a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Bradford%20Phoenix%20House/female-prayer-wudhu1.jpg?csf=1&web=1&e=MhEq71\">Photo 1</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Bradford%20Phoenix%20House/female-prayer-wudhu2.jpg?csf=1&web=1&e=CCWuSh\">Photo 2</a>"
+    "pictures_html": "Female room: <a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Bradford%20Phoenix%20House/female-prayer-wudhu1.jpg?csf=1&web=1&e=MhEq71\">Photo 1</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Bradford%20Phoenix%20House/female-prayer-wudhu2.jpg?csf=1&web=1&e=CCWuSh\">Photo 2</a> "
   },
   {
     "Title": "Brent Probation Service Office",
@@ -2387,7 +2387,7 @@ const RoomsList = [
     "Closest Masjids": "SE14JL",
     "Alert": 0,
     "Fill details": 1,
-    "Notes": "IMPORTANT: Room 3D (formerly KSS RPD’s office) has been designated a temporary replacement prayer room due to having Radon in the basement. The room can be used for sensitive calls too. Book via Matrix. Signs available which they can put up to show it is occupied.   \n\nBaitul Aziz Masjid - 5 mins away",
+    "Notes": "IMPORTANT: Room 3D (formerly KSS RPD’s office) has been designated a temporary replacement prayer room due to having Radon in the basement. The room can be used for sensitive calls too. Book via Matrix. Signs available which they can put up to show it is occupied.   \n\nBaitul Aziz Masjid - 5 mins away\n\n",
     "Halal food": "",
     "pictures_html": ""
   },
@@ -2433,7 +2433,7 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": "multifaith room including wudhuu khana for staff use as well as prisoner's needs (jumah prayers).\nquiet reflection room also available in the chaplaincy.\nchaplaincy manager must be informed before use.",
+    "Notes": "multifaith room including wudhuu khana for staff use as well as prisoner's needs (jumah prayers).\nquiet reflection room also available in the chaplaincy.\nchaplaincy manager must be informed before use. ",
     "Halal food": "",
     "pictures_html": ""
   },
@@ -2553,9 +2553,9 @@ const RoomsList = [
     "pictures_html": ""
   },
   {
-    "Title": "Cheylesmore House - Department for Education",
+    "Title": " Cheylesmore House - Department for Education",
     "Region": "",
-    "Address 1": "5 Quinton Rd",
+    "Address 1": " 5 Quinton Rd",
     "Address 2": "",
     "Address 3": "",
     "Town/City": "Coventry",
@@ -2571,7 +2571,7 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": "on the right after the security gates in a short corridor in front of the stairs",
+    "Notes": "on the right after the security gates in a short corridor in front of the stairs ",
     "Halal food": "",
     "pictures_html": ""
   },
@@ -2606,7 +2606,7 @@ const RoomsList = [
     "Address 3": "",
     "Town/City": "London",
     "Postcode": "E13 8SL",
-    "Floor": "1,",
+    "Floor": "1, ",
     "Block": "",
     "Room": "Multi-faith prayer room, Gateway Surgical Centre Prayer Room",
     "Timing": "",
@@ -2686,7 +2686,7 @@ const RoomsList = [
     "Closest Masjids": "",
     "Alert": "",
     "Fill details": "",
-    "Notes": "Take the stairs up to the first floor which are near Junction 5. At the top of the stairs go through the door on the left. Phone: 020 8535 6988",
+    "Notes": "Take the stairs up to the first floor which are near Junction 5. At the top of the stairs go through the door on the left. Phone: 020 8535 6988\n\n",
     "Halal food": "",
     "pictures_html": ""
   },
@@ -2702,7 +2702,7 @@ const RoomsList = [
     "Block": "",
     "Room": "Multi faith room",
     "Timing": "24/7",
-    "Gender": "None, but there is a sliding sign on the door to allow users to know the room is occupied or vacant.",
+    "Gender": "None, but there is a sliding sign on the door to allow users to know the room is occupied or vacant. ",
     "Wudhu": "Sink available in the room",
     "Size": "5 people",
     "Jummah time": "No Jummah but group can arrange",
@@ -2893,7 +2893,7 @@ const RoomsList = [
     "Closest Masjids": "LU12TW,LU15LY,LU11HB,LU11HE,LU48JD",
     "Alert": 1,
     "Fill details": 0,
-    "Notes": "*** Note this is the old office for probation. New one is in Clemiston House ***\n\nThe Probation office is on the 1st floor, reception will open the door if buzzed. \nThe prayer room is one the second floor, no pass needed, door is open - The first door to the left is the prayer room (Poster indicates prayer room). There are four prayer mats and there's a divider in the middle for privacy and separation for men and women.\n\n(Reception on ground floor will be able to assist)",
+    "Notes": "*** Note this is the old office for probation. New one is in Clemiston House ***\n\nThe Probation office is on the 1st floor, reception will open the door if buzzed. \nThe prayer room is one the second floor, no pass needed, door is open - The first door to the left is the prayer room (Poster indicates prayer room). There are four prayer mats and there's a divider in the middle for privacy and separation for men and women.\n\n(Reception on ground floor will be able to assist) ",
     "Halal food": "",
     "pictures_html": ""
   },
@@ -3084,7 +3084,7 @@ const RoomsList = [
   {
     "Title": "CTSC Birmingham",
     "Region": "",
-    "Address 1": "54 Hagley Road,",
+    "Address 1": "54 Hagley Road, ",
     "Address 2": "",
     "Address 3": "",
     "Town/City": "Birmingham",
@@ -3105,7 +3105,7 @@ const RoomsList = [
     "pictures_html": "<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Birmingham%20CTSC/room.png?csf=1&web=1&e=xtMQUQ\">Room</a>"
   },
   {
-    "Title": "Custom House Heathrow",
+    "Title": " Custom House Heathrow",
     "Region": "",
     "Address 1": "",
     "Address 2": "Hounslow",
@@ -3128,7 +3128,7 @@ const RoomsList = [
     "pictures_html": ""
   },
   {
-    "Title": "Ilford probation office (Oakland court)",
+    "Title": "Ilford probation office (Oakland court) ",
     "Region": "",
     "Address 1": "277 High Rd",
     "Address 2": "Ilford",
@@ -3258,7 +3258,7 @@ const RoomsList = [
     "Wudhu": "Yes",
     "Size": "5-6 people",
     "Jummah time": "Being worked on",
-    "Closest Masjids": "LS13EX",
+    "Closest Masjids": " LS13EX",
     "Alert": 0,
     "Fill details": 1,
     "Notes": "People walk to Leeds hospital to pray Jummah at the moment",
@@ -3378,7 +3378,7 @@ const RoomsList = [
     "Fill details": 1,
     "Notes": "",
     "Halal food": "Ask in canteen",
-    "pictures_html": "<a href=\"https://justiceuk.sharepoint.com/:u:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Richmond%20House,%20Parliament/room.HEIC?csf=1&web=1&e=MYcGiP\">Room</a> | <a href=\"https://justiceuk.sharepoint.com/:u:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Richmond%20House,%20Parliament/friday%20prayer%20notice.HEIC?csf=1&web=1&e=Gyrfcg\">Friday prayer notice</a>"
+    "pictures_html": "<a href=\"https://justiceuk.sharepoint.com/:u:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Richmond%20House,%20Parliament/room.HEIC?csf=1&web=1&e=MYcGiP\">Room</a> | <a href=\"https://justiceuk.sharepoint.com/:u:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Richmond%20House,%20Parliament/friday%20prayer%20notice.HEIC?csf=1&web=1&e=Gyrfcg\">Friday prayer notice</a>\n"
   },
   {
     "Title": "1 Ruskin Square HMRC / MoJ ( 1RS )",
@@ -3401,7 +3401,7 @@ const RoomsList = [
     "Fill details": 1,
     "Notes": "Room is on right side as you enter the canteen. Shared with HMRC staff. Dedicated prayer room and contemplation room. Croydon Brothers WhatsApp group number for Friday prayers 07965 471820. There is also a reflection room in 2 Ruskin Square.",
     "Halal food": "Canteen serves sandwiches and hot and cold drinks and has recently added halal options. Most Muslims bring their own and eat in the canteen, there are two top quality microwaves to heat food and ample seating space.   Croydon has multiple halal takeaways and restaurants within short walking distance to Ruskin Square.",
-    "pictures_html": "<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/1%20Ruskin%20Square%20Croydon/room%201.jpg?csf=1&web=1&e=KGAAQe\">Male room 1</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/1%20Ruskin%20Square%20Croydon/room%202.jpg?csf=1&web=1&e=WKrC4f\">2</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/1%20Ruskin%20Square%20Croydon/room%203.jpg?csf=1&web=1&e=5gEdyF\">3</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/1%20Ruskin%20Square%20Croydon/entrance.jpg?csf=1&web=1&e=cKv8rj\">Entrance</a>"
+    "pictures_html": "<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/1%20Ruskin%20Square%20Croydon/room%201.jpg?csf=1&web=1&e=KGAAQe\">Male room 1</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/1%20Ruskin%20Square%20Croydon/room%202.jpg?csf=1&web=1&e=WKrC4f\">2</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/1%20Ruskin%20Square%20Croydon/room%203.jpg?csf=1&web=1&e=5gEdyF\">3</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/1%20Ruskin%20Square%20Croydon/entrance.jpg?csf=1&web=1&e=cKv8rj\">Entrance</a>\n"
   },
   {
     "Title": "2 Rusking Square (2RS) Home office",
@@ -3470,7 +3470,7 @@ const RoomsList = [
     "Fill details": 1,
     "Notes": "Can get a bit cold. Where a jacket.",
     "Halal food": "",
-    "pictures_html": "<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Adam%20Court%20Peterborough/prayer3.png?csf=1&web=1&e=sbDIXp\">Door</a> | \nPrayer room: <a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Adam%20Court%20Peterborough/prayer1.png?csf=1&web=1&e=BkHv6i\">1</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Adam%20Court%20Peterborough/prayer2.png?csf=1&web=1&e=7suGyb\">2</a> | \nToilet cubicle: <a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Adam%20Court%20Peterborough/wudhu_women.png?csf=1&web=1&e=mmIE43\">Women</a> |\n <a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Adam%20Court%20Peterborough/wudhu_men.png?csf=1&web=1&e=TGdgYu\">Men</a>"
+    "pictures_html": "<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Adam%20Court%20Peterborough/prayer3.png?csf=1&web=1&e=sbDIXp\">Door</a> | \nPrayer room: <a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Adam%20Court%20Peterborough/prayer1.png?csf=1&web=1&e=BkHv6i\">1</a> | \n<a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Adam%20Court%20Peterborough/prayer2.png?csf=1&web=1&e=7suGyb\">2</a> | \nToilet cubicle: <a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Adam%20Court%20Peterborough/wudhu_women.png?csf=1&web=1&e=mmIE43\">Women</a> |\n <a href=\"https://justiceuk.sharepoint.com/:i:/r/sites/MoJMN_Public/Shared%20Documents/General/prayer_room_pictures/Adam%20Court%20Peterborough/wudhu_men.png?csf=1&web=1&e=TGdgYu\">Men</a>  "
   },
   {
     "Title": "Manchester Magistrates Court",
@@ -3507,7 +3507,7 @@ const RoomsList = [
     "Block": "",
     "Room": "There is a prayer room",
     "Timing": "",
-    "Gender": "mixed, no separator.",
+    "Gender": "mixed, no separator. ",
     "Wudhu": "",
     "Size": "",
     "Jummah time": "",
@@ -3523,7 +3523,7 @@ const RoomsList = [
     "Region": "",
     "Address 1": "Building One",
     "Address 2": "Main building",
-    "Address 3": "17 Princess Road West",
+    "Address 3": "17 Princess Road West ",
     "Town/City": "Leicester",
     "Postcode": "LE1 6TR",
     "Floor": "3rd floor",
@@ -3631,6 +3631,29 @@ const RoomsList = [
     "Fill details": 1,
     "Notes": "",
     "Halal food": "",
+    "pictures_html": ""
+  },
+  {
+    "Title": "Bootle Office - HSE",
+    "Region": "",
+    "Address 1": "Redgrave Court",
+    "Address 2": "Merton Road",
+    "Address 3": "",
+    "Town/City": "Bootle",
+    "Postcode": "L207HS",
+    "Floor": "Ground",
+    "Block": "",
+    "Room": "Reflection room Males/Females",
+    "Timing": "",
+    "Gender": "both",
+    "Wudhu": "Available for both genders",
+    "Size": "",
+    "Jummah time": "",
+    "Closest Masjids": "",
+    "Alert": 0,
+    "Fill details": 1,
+    "Notes": "Next to Auditorium. Access via the canteen opposite the security desk at the main entrance.",
+    "Halal food": "The canteen offers vegetarian options, such as sandwiches, along with standard drinks including coffee, tea and soft beverages.",
     "pictures_html": ""
   }
 ]
